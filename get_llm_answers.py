@@ -63,7 +63,7 @@ def main():
         print(answer)
         outfile = open(outfile_path, 'a+', encoding='utf-8')
         outfile.write(f'"index": {i}\n')
-        outfile.write(f'"llm_answer": {answer}\n')    
+        outfile.write(f'"llm_answer": {answer.replace("\n", "")}\n')    
         outfile.close()
 
     logging.info(f'Extraction finished. Saved the results to {args.out_dir}/{outfile}')
