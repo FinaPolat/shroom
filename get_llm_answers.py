@@ -43,7 +43,7 @@ def main():
     
     parser.add_argument('--input_file', type=str, default='prompts/prompts_validation_model_agnostic.json', help='Input directory')
     parser.add_argument('--model_name', type=str, default="gpt-3.5-turbo-1106", help='OpenAI model name')
-    parser.add_argument('--out_dir', type=str, default='test_answers_from_GPT4', help='Output directory')
+    parser.add_argument('--out_dir', type=str, default='answers_from_GPT3-5-turbo', help='Output directory')
     
     args = parser.parse_args()
         
@@ -51,7 +51,7 @@ def main():
         os.makedirs(args.out_dir)
     
     prompts = read_prompts(args.input_file)
-    prompts = prompts[:1]
+    #prompts = prompts[:1]
     total_instances = len(prompts)
     
     logging.info(f'Read the input file: {args.input_file}. Number of instances: {total_instances}. Started.')
