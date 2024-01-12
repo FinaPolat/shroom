@@ -1,14 +1,14 @@
 import os
 import json
-import openai
+from openai import OpenAI
 from retry import retry
 import argparse
 import logging
 import time
 from tqdm import tqdm
 
-os.environ["OPENAI_API_KEY"] = 'your_api_key'
-openai.api_key = os.environ["OPENAI_API_KEY"]
+# Set the OpenAI API key
+client = OpenAI(api_key="your_api_key")
 
 
 def read_prompts(input_file): 
@@ -19,16 +19,16 @@ def read_prompts(input_file):
 
 # Get an answer from the OpenAI-API
 @retry(tries=3, delay=2, max_delay=10)
-def GPT_repsonse(prompts, model, temperature, max_tokens):
-    messages=[{"role": "user", "content": prompts}]
-    response = openai.ChatCompletion.create(
+def GPT_repsonse(prompt, model, temperature, max_tokens):
+    messages=[{"role": "user", "content": prompt}]
+    response = client.chat.completions.create(
                                             model=model,
+                                            response_format={ "type": "json_object" },
                                             messages=messages,
                                             temperature=temperature,
                                             max_tokens=max_tokens,
     )
-
-    response = response.choices[0]["message"]["content"]
+    response = response.choices[0].message.content
     
     return response
 
@@ -41,9 +41,9 @@ def main():
     start_time = time.time()
     parser = argparse.ArgumentParser()
     
-    parser.add_argument('--input_file', type=str, default='fina/prompts/prompts_validation_model_agnostic.json', help='Input directory')
-    parser.add_argument('--model_name', type=str, default='gpt-4', help='OpenAI model name')
-    parser.add_argument('--out_dir', type=str, default='fina/answers_from_GPT4', help='Output directory')
+    parser.add_argument('--input_file', type=str, default='prompts/prompts_validation_model_agnostic.json', help='Input directory')
+    parser.add_argument('--model_name', type=str, default="gpt-3.5-turbo-1106", help='OpenAI model name')
+    parser.add_argument('--out_dir', type=str, default='test_answers_from_GPT4', help='Output directory')
     
     args = parser.parse_args()
         
@@ -51,15 +51,15 @@ def main():
         os.makedirs(args.out_dir)
     
     prompts = read_prompts(args.input_file)
-    #prompts = prompts[:1]
+    prompts = prompts[:1]
     total_instances = len(prompts)
     
     logging.info(f'Read the input file: {args.input_file}. Number of instances: {total_instances}. Started.')
 
-    outfile_path = f'{args.out_dir}/answers_{args.model_name}.txt'
+    outfile_path = f'{args.out_dir}/test_answers_{args.model_name}.txt'
     
     for i, prompt in enumerate(tqdm(prompts, desc=f"Passing inputs through {args.model_name} for answers", total=total_instances)): 
-        answer = GPT_repsonse(prompt['prompt'], args.model_name, temperature=0.7,  max_tokens=2000)
+        answer = GPT_repsonse(prompt['prompt'], args.model_name, temperature=0.7,  max_tokens=1000)
         print(answer)
         outfile = open(outfile_path, 'a+', encoding='utf-8')
         outfile.write(f'"index": {i}\n')
