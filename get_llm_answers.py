@@ -7,7 +7,7 @@ import logging
 import time
 from tqdm import tqdm
 
-os.environ["OPENAI_API_KEY"] = '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'
+os.environ["OPENAI_API_KEY"] = 'your_api_key'
 openai.api_key = os.environ["OPENAI_API_KEY"]
 
 
