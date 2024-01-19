@@ -25,10 +25,11 @@
         "student_answer": "Not Hallucination",
         "parttimer_answer": "Not Hallucination",
         "combined_answer": "Not Hallucination",
-        "p(Hallucination)": "0.40"
+        "p(Hallucination)": "0.40",
+        "task": "DM"
     },
     {
-        "input_text": "As to age , Bead could not form any clear impression ; he might have been twenty , or forty . All of this visual perception occurred in an <define> eyewink </define> of time   [ \ufffd ]",
+        "input_text": "As to age , Bead could not form any clear impression ; he might have been twenty , or forty . All of this visual perception occurred in an <define> eyewink </define> of time   [ � ]",
         "target_text": "(poetic) An instant, a short moment.",
         "generated_text": "(obsolete) A short period of time.",
         "gold_label": "Not Hallucination",
@@ -53,7 +54,8 @@
         "student_answer": "Hallucination",
         "parttimer_answer": "Hallucination",
         "combined_answer": "Hallucination",
-        "p(Hallucination)": "0.80"
+        "p(Hallucination)": "0.80",
+        "task": "DM"
     },
     {
         "input_text": "On the second day of massive live - fire drills being held by the People 's Liberation Army ( PLA ) around Taiwan , Taiwan 's Army also conducted live - fire exercises in Lienchiang County 's Dongyin Township from 6 p.m. to 9 p.m. However , during the exercises , witnesses gave differing accounts of either tracer fire or flares landing on a hill behind Sanjia Village on <define> Xiyin </define> Island and starting a fire , reported UDN .",
@@ -67,10 +69,11 @@
         "student_answer": "Hallucination",
         "parttimer_answer": "Hallucination",
         "combined_answer": "Hallucination",
-        "p(Hallucination)": "1.00"
+        "p(Hallucination)": "1.00",
+        "task": "DM"
     },
     {
-        "input_text": "Grouped in the center of the hall were about two hundred men , all armed with sabers , \ufffd men of every age , and height and swarthiness , from stout , <define> blue - bearded </define> veterans to youths yet in their teens   [ \ufffd ]",
+        "input_text": "Grouped in the center of the hall were about two hundred men , all armed with sabers , � men of every age , and height and swarthiness , from stout , <define> blue - bearded </define> veterans to youths yet in their teens   [ � ]",
         "target_text": "Having thick, dark facial hair.",
         "generated_text": "Alternative form of blue-bearded",
         "gold_label": "Hallucination",
@@ -98,7 +101,7 @@
         "p(Hallucination)": "0.00"
     },
     {
-        "input_text": "\ufffd She changes her shape depending on which way you 're coming at her . Once you know the contours of Bulgonunna you 'll never get <define> bushed </define> in this country . \ufffd",
+        "input_text": "� She changes her shape depending on which way you 're coming at her . Once you know the contours of Bulgonunna you 'll never get <define> bushed </define> in this country . �",
         "target_text": "(AU) Lost in the bush. [from 19th c.]",
         "generated_text": "(Australia, New Zealand, slang) Drunk.",
         "gold_label": "Hallucination",
@@ -123,7 +126,8 @@
         "student_answer": "Hallucination",
         "parttimer_answer": "Hallucination",
         "combined_answer": "Hallucination",
-        "p(Hallucination)": "1.00"
+        "p(Hallucination)": "1.00",
+        "task": "DM"
     },
     {
         "input_text": "Poverty is the mother of <define> ingenuity </define> .",
@@ -137,7 +141,8 @@
         "student_answer": "Not Hallucination",
         "parttimer_answer": "Hallucination",
         "combined_answer": "Not Hallucination",
-        "p(Hallucination)": "0.20"
+        "p(Hallucination)": "0.20",
+        "task": "DM"
     },
     {
         "input_text": "\" But why should I be in another room ? \" \" You <define> passed over </define> in the night . \" \" Passed over ? Do you mean I died ? \" \" Yes , lady , you died . \" There was a long silence .",
@@ -165,7 +170,8 @@
         "student_answer": "Not Hallucination",
         "parttimer_answer": "Not Hallucination",
         "combined_answer": "Not Hallucination",
-        "p(Hallucination)": "0.20"
+        "p(Hallucination)": "0.20",
+        "task": "DM"
     },
     {
         "input_text": "It can be argued that explicit representations of bisexuality , pansexuality , and other multiple - gender - attracted people are erased from games that use ' <define> playersexuality </define> ' as a mechanic .",
@@ -207,10 +213,11 @@
         "student_answer": "Not Hallucination",
         "parttimer_answer": "Not Hallucination",
         "combined_answer": "Not Hallucination",
-        "p(Hallucination)": "0.20"
+        "p(Hallucination)": "0.20",
+        "task": "DM"
     },
     {
-        "input_text": "[ \ufffd ]   and his physique was rather <define> hulksome </define> , with muscles built upon muscles giving him a chiseled statuesque appearance .",
+        "input_text": "[ � ]   and his physique was rather <define> hulksome </define> , with muscles built upon muscles giving him a chiseled statuesque appearance .",
         "target_text": "Characteristic of a hulk; large and bulky; hulking.",
         "generated_text": "Resembling or characteristic of a hulk.",
         "gold_label": "Not Hallucination",
@@ -235,7 +242,8 @@
         "student_answer": "Not Hallucination",
         "parttimer_answer": "Not Hallucination",
         "combined_answer": "Not Hallucination",
-        "p(Hallucination)": "0.00"
+        "p(Hallucination)": "0.00",
+        "task": "DM"
     },
     {
         "input_text": "<define> Taking on </define> a first employee should be done with care and consideration .",
@@ -249,7 +257,8 @@
         "student_answer": "Not Hallucination",
         "parttimer_answer": "Not Hallucination",
         "combined_answer": "Not Hallucination",
-        "p(Hallucination)": "0.00"
+        "p(Hallucination)": "0.00",
+        "task": "DM"
     },
     {
         "input_text": "Ah ! they were grand days , those deep , full days , when our coming life , like an unseen organ , pealed strange , <define> yearnful </define> music in our ears , and our young blood cried out like a war - horse for the battle .",
@@ -266,7 +275,7 @@
         "p(Hallucination)": "0.00"
     },
     {
-        "input_text": "Economics is a messy discipline : too fluid to be a science , too <define> rigorous </define> to be an art . Perhaps it is fitting that economists \ufffd most - used metric , gross domestic product ( GDP ) , is a tangle too . GDP measures the total value of output in an economic territory . Its apparent simplicity explains why it is scrutinised down to tenths of a percentage point every month .",
+        "input_text": "Economics is a messy discipline : too fluid to be a science , too <define> rigorous </define> to be an art . Perhaps it is fitting that economists � most - used metric , gross domestic product ( GDP ) , is a tangle too . GDP measures the total value of output in an economic territory . Its apparent simplicity explains why it is scrutinised down to tenths of a percentage point every month .",
         "target_text": "Showing, causing, or favoring rigour/rigor; scrupulously accurate or strict; thorough.",
         "generated_text": "(uncountable) The quality of being rigorous.",
         "gold_label": "Hallucination",
@@ -277,7 +286,8 @@
         "student_answer": "Not Hallucination",
         "parttimer_answer": "Not Hallucination",
         "combined_answer": "Not Hallucination",
-        "p(Hallucination)": "0.00"
+        "p(Hallucination)": "0.00",
+        "task": "DM"
     },
     {
         "input_text": "Cheers <define> marrow </define> !",
@@ -322,7 +332,7 @@
         "p(Hallucination)": "0.00"
     },
     {
-        "input_text": "I never can cease admiring that beautiful request of the Prayer - book , \ufffd A happy issue out of all their affliction . \ufffd It is so humble , so <define> undictating </define> to God , so moderate , yet so ample . God give that to us both . Amen . In His way and time , and in this world and in the next .",
+        "input_text": "I never can cease admiring that beautiful request of the Prayer - book , � A happy issue out of all their affliction . � It is so humble , so <define> undictating </define> to God , so moderate , yet so ample . God give that to us both . Amen . In His way and time , and in this world and in the next .",
         "target_text": "Not dictating.",
         "generated_text": "Not dictating.",
         "gold_label": "Not Hallucination",
@@ -364,7 +374,7 @@
         "p(Hallucination)": "0.20"
     },
     {
-        "input_text": "\" Christ \" \ufffd he yawned \ufffd \" Christ , what the hell is everybody getting so <define> pisspants </define> scared and nervous for ? Vince Eames is what ? A crook ? So ? ...",
+        "input_text": "\" Christ \" � he yawned � \" Christ , what the hell is everybody getting so <define> pisspants </define> scared and nervous for ? Vince Eames is what ? A crook ? So ? ...",
         "target_text": "(slang, vulgar, derogatory, rare) An objectionable or cowardly person.",
         "generated_text": "(vulgar, slang) Very scared or nervous.",
         "gold_label": "Not Hallucination",
@@ -406,7 +416,7 @@
         "p(Hallucination)": "0.00"
     },
     {
-        "input_text": "Popular <define> cosplays </define> include , for example , characters from the Final Fantasy range of games [ \ufffd ]",
+        "input_text": "Popular <define> cosplays </define> include , for example , characters from the Final Fantasy range of games [ � ]",
         "target_text": "(countable) A skit or instance of this art or practice.",
         "generated_text": "(informal) A cosplay.",
         "gold_label": "Not Hallucination",
@@ -417,10 +427,11 @@
         "student_answer": "Hallucination",
         "parttimer_answer": "Hallucination",
         "combined_answer": "Hallucination",
-        "p(Hallucination)": "1.00"
+        "p(Hallucination)": "1.00",
+        "task": "DM"
     },
     {
-        "input_text": "\ufffd [ \ufffd ]   the Pope   [ \ufffd ]   had to send him a valuable Gift , which you may see some day . \ufffd N\ufffdssler did , one day , see this <define> preciosity </define> : a Crucifix , ebony bordered with gold , and the Body all of that metal , on the smallest of altars , in Walrave \ufffds bedroom .",
+        "input_text": "� [ � ]   the Pope   [ � ]   had to send him a valuable Gift , which you may see some day . � N�ssler did , one day , see this <define> preciosity </define> : a Crucifix , ebony bordered with gold , and the Body all of that metal , on the smallest of altars , in Walrave �s bedroom .",
         "target_text": "(obsolete, countable) Something of high value or worth.",
         "generated_text": "The state or quality of being precious.",
         "gold_label": "Not Hallucination",
@@ -445,7 +456,8 @@
         "student_answer": "Not Hallucination",
         "parttimer_answer": "Hallucination",
         "combined_answer": "Hallucination",
-        "p(Hallucination)": "0.60"
+        "p(Hallucination)": "0.60",
+        "task": "DM"
     },
     {
         "input_text": "see Wikipedia : <define> tramp </define> steamer",
@@ -473,7 +485,8 @@
         "student_answer": "Not Hallucination",
         "parttimer_answer": "Hallucination",
         "combined_answer": "Not Hallucination",
-        "p(Hallucination)": "0.40"
+        "p(Hallucination)": "0.40",
+        "task": "DM"
     },
     {
         "input_text": "The same phenomenon is also detectable in the records of the meetings of NATO committees : the priority of avoiding any manifestation of internal disagreements led to the production of ' <define> sterilized </define> ' records of discussions which evidently were significantly more lively than shown in the official papers .",
@@ -490,7 +503,7 @@
         "p(Hallucination)": "0.80"
     },
     {
-        "input_text": "Only minds completely crazed or fatally confused by the current <define> Christomania </define> would suppose that the details of the story , which is as old at least as the cult of Ptah in Memphis , were derived from the \" historic \" version   [ \ufffd ]",
+        "input_text": "Only minds completely crazed or fatally confused by the current <define> Christomania </define> would suppose that the details of the story , which is as old at least as the cult of Ptah in Memphis , were derived from the \" historic \" version   [ � ]",
         "target_text": "A fanatical devotion to Jesus Christ.",
         "generated_text": "The belief that Jesus Christ is the savior of the world.",
         "gold_label": "Hallucination",
@@ -501,11 +514,12 @@
         "student_answer": "Not Hallucination",
         "parttimer_answer": "Hallucination",
         "combined_answer": "Not Hallucination",
-        "p(Hallucination)": "0.40"
+        "p(Hallucination)": "0.40",
+        "task": "DM"
     },
     {
-        "input_text": "The \ufffd black mists \ufffd of Japan did not die with Yoshio Kodama . In the spirit of the late <define> kuromaku </define> , questionable payments and mob connections still stretch far and wide among Japan 's elected officials   [ \ufffd ]",
-        "target_text": "In Japan, an \ufffdminence grise or secret decision-maker.",
+        "input_text": "The � black mists � of Japan did not die with Yoshio Kodama . In the spirit of the late <define> kuromaku </define> , questionable payments and mob connections still stretch far and wide among Japan 's elected officials   [ � ]",
+        "target_text": "In Japan, an �minence grise or secret decision-maker.",
         "generated_text": "(historical) The Japanese mafia.",
         "gold_label": "Hallucination",
         "gold_p(Hallucination)": 0.8,
@@ -518,7 +532,7 @@
         "p(Hallucination)": "0.60"
     },
     {
-        "input_text": "For use in a nursery for cradling a baby to sleep , a baby <define> cradler </define> comprising , in combination , a stand embodying a mobile base , uprights attached to and rising perpendicularly from the base and having axially aligned bearings ,   [ \ufffd ]",
+        "input_text": "For use in a nursery for cradling a baby to sleep , a baby <define> cradler </define> comprising , in combination , a stand embodying a mobile base , uprights attached to and rising perpendicularly from the base and having axially aligned bearings ,   [ � ]",
         "target_text": "One who or that which cradles.",
         "generated_text": "One who or that which cradles.",
         "gold_label": "Not Hallucination",
@@ -543,7 +557,8 @@
         "student_answer": "Not Hallucination",
         "parttimer_answer": "Not Hallucination",
         "combined_answer": "Not Hallucination",
-        "p(Hallucination)": "0.00"
+        "p(Hallucination)": "0.00",
+        "task": "DM"
     },
     {
         "input_text": "A special group must be mentioned : 4 . artificial <define> immunodegradation </define> ( immunosuppression )",
@@ -557,7 +572,8 @@
         "student_answer": "Hallucination",
         "parttimer_answer": "Hallucination",
         "combined_answer": "Hallucination",
-        "p(Hallucination)": "1.00"
+        "p(Hallucination)": "1.00",
+        "task": "DM"
     },
     {
         "input_text": "He took his arrow by the <define> nock </define> .",
@@ -571,7 +587,8 @@
         "student_answer": "Hallucination",
         "parttimer_answer": "Hallucination",
         "combined_answer": "Hallucination",
-        "p(Hallucination)": "0.80"
+        "p(Hallucination)": "0.80",
+        "task": "DM"
     },
     {
         "input_text": "to <define> shorten </define> an allowance of food",
@@ -627,7 +644,8 @@
         "student_answer": "Hallucination",
         "parttimer_answer": "Hallucination",
         "combined_answer": "Hallucination",
-        "p(Hallucination)": "0.80"
+        "p(Hallucination)": "0.80",
+        "task": "DM"
     },
     {
         "input_text": "The <define> preejection </define> shortening and relengthening correspond to septal beaking and flash .",
@@ -641,7 +659,8 @@
         "student_answer": "Not Hallucination",
         "parttimer_answer": "Not Hallucination",
         "combined_answer": "Not Hallucination",
-        "p(Hallucination)": "0.40"
+        "p(Hallucination)": "0.40",
+        "task": "DM"
     },
     {
         "input_text": "He had a nasty face though , the boy considered , and looked like a bounder because he had pimples , a <define> swelly </define> nose , a loud voice , and a swanky manner . The boy disapproved of him wholly .",
@@ -658,7 +677,7 @@
         "p(Hallucination)": "1.00"
     },
     {
-        "input_text": "ELYOT : And you \ufffdre an ill - mannered , bad tempered <define> slattern </define> .",
+        "input_text": "ELYOT : And you �re an ill - mannered , bad tempered <define> slattern </define> .",
         "target_text": "(dated) One who is uncareful or unconcerned about appearance or surroundings, usually said of a dirty and untidy woman.",
         "generated_text": "(slang) A contemptible person.",
         "gold_label": "Hallucination",
@@ -672,7 +691,7 @@
         "p(Hallucination)": "1.00"
     },
     {
-        "input_text": "\ufffd Because I don&#39;t think that is a seventeenth - century helmet . \ufffd There was something odd about the smoothness of the crown . The skull of the <define> lobster - tailed pot </define> helmet was often fluted . Generally , they were made in two sections joined by a \ufffd ...",
+        "input_text": "� Because I don&#39;t think that is a seventeenth - century helmet . � There was something odd about the smoothness of the crown . The skull of the <define> lobster - tailed pot </define> helmet was often fluted . Generally , they were made in two sections joined by a � ...",
         "target_text": "A European combat helmet, worn especially from the 1600s into the 1700s, consisting of a rounded skull-piece, often cheek guards and a nasal or face-guard, and a laminated defence (or single plate ridged to imitate lames) to protect the back of the neck that resembled a lobster's tail.",
         "generated_text": "Alternative form of lobstertail",
         "gold_label": "Hallucination",
@@ -686,7 +705,7 @@
         "p(Hallucination)": "1.00"
     },
     {
-        "input_text": "Because of his disappearance over the final two months last season , Reyes has been the target of Shea <define> boobirds </define> , which , as Wright remarked , is almost a \ufffd rite of passage . \ufffd",
+        "input_text": "Because of his disappearance over the final two months last season , Reyes has been the target of Shea <define> boobirds </define> , which , as Wright remarked , is almost a � rite of passage . �",
         "target_text": "(slang) A spectator at a sporting event who boos the home team.",
         "generated_text": "(slang, derogatory) A woman.",
         "gold_label": "Hallucination",
@@ -781,7 +800,8 @@
         "student_answer": "Hallucination",
         "parttimer_answer": "Hallucination",
         "combined_answer": "Hallucination",
-        "p(Hallucination)": "1.00"
+        "p(Hallucination)": "1.00",
+        "task": "DM"
     },
     {
         "input_text": "But purging is more proper if it may bee done without danger , as it may in the fourth , fift and ?ixt month of <define> pregnation </define> : for a child in the wombe is compared to an Apple on the tree .",
@@ -798,7 +818,7 @@
         "p(Hallucination)": "0.00"
     },
     {
-        "input_text": "The following appear rather like <define> revamps </define> of old versions absolutely than absolutely new jokes :   [ \ufffd ]",
+        "input_text": "The following appear rather like <define> revamps </define> of old versions absolutely than absolutely new jokes :   [ � ]",
         "target_text": "An act of improving, renewing, renovating, or revising something; an improvement, renovation, revamping, or revision. [from mid 19th c.]",
         "generated_text": "(informal) A revision.",
         "gold_label": "Not Hallucination",
@@ -879,7 +899,8 @@
         "student_answer": "Not Hallucination",
         "parttimer_answer": "Not Hallucination",
         "combined_answer": "Not Hallucination",
-        "p(Hallucination)": "0.20"
+        "p(Hallucination)": "0.20",
+        "task": "DM"
     },
     {
         "input_text": "Thomas writes of <define> matrescence </define> as spiritual formation drawing analogies with the Judaeo - Christian tradition .",
@@ -921,7 +942,8 @@
         "student_answer": "Not Hallucination",
         "parttimer_answer": "Not Hallucination",
         "combined_answer": "Not Hallucination",
-        "p(Hallucination)": "0.00"
+        "p(Hallucination)": "0.00",
+        "task": "DM"
     },
     {
         "input_text": "This particular article , published to my site kheperu.org in 2002 , was penned in response to a letter received from a <define> psivamp </define> who had stirred up trouble for himself by outing his nature to his Wiccan High Priestess .",
@@ -966,7 +988,7 @@
         "p(Hallucination)": "0.00"
     },
     {
-        "input_text": "Quatermass also mediated Wellsian influence on the tone and preoccupations of the new hybrid SF \ufffd horror - film genre , with its monstrous <define> Gigeresque </define> fusions of machine and organism [ \ufffd ]",
+        "input_text": "Quatermass also mediated Wellsian influence on the tone and preoccupations of the new hybrid SF � horror - film genre , with its monstrous <define> Gigeresque </define> fusions of machine and organism [ � ]",
         "target_text": "Reminiscent of H. R. Giger (born 1940), Swiss surrealist painter best known for nightmarish biomechanical imagery.",
         "generated_text": "Resembling or characteristic of French surrealism.",
         "gold_label": "Hallucination",
@@ -991,7 +1013,8 @@
         "student_answer": "Hallucination",
         "parttimer_answer": "Hallucination",
         "combined_answer": "Hallucination",
-        "p(Hallucination)": "0.80"
+        "p(Hallucination)": "0.80",
+        "task": "DM"
     },
     {
         "input_text": "so as no fuller on earth can <define> white </define> them",
@@ -1008,7 +1031,7 @@
         "p(Hallucination)": "0.00"
     },
     {
-        "input_text": "Elytra <define> miniatous </define> , with a large somewhat triangular black spot on their disk ,   [ \ufffd ]",
+        "input_text": "Elytra <define> miniatous </define> , with a large somewhat triangular black spot on their disk ,   [ � ]",
         "target_text": "(formal) Orange-red, the colour of red lead.",
         "generated_text": "(zoology) Of or pertaining to a minotaur.",
         "gold_label": "Hallucination",
@@ -1022,7 +1045,7 @@
         "p(Hallucination)": "1.00"
     },
     {
-        "input_text": "This is the sort of witchery , not easily defined \ufffd but , by its votaries , pretty sensibly felt , in hunting the fox . The light - hearted , high - spirited stripling , when cigaring it careless to cover , with a kind of a knowing demi - <define> devil - may - care </define> twist of his beaver , receives in his transit a benison from every real friend of the chase he may chance to pass ; and the airy , eager zeal of the youthful aspirant to rolls , tumbles , and the brush , will flush his memory with the frolic gayety of other days , and animate his mind with reflections most welcome to his heart .",
+        "input_text": "This is the sort of witchery , not easily defined � but , by its votaries , pretty sensibly felt , in hunting the fox . The light - hearted , high - spirited stripling , when cigaring it careless to cover , with a kind of a knowing demi - <define> devil - may - care </define> twist of his beaver , receives in his transit a benison from every real friend of the chase he may chance to pass ; and the airy , eager zeal of the youthful aspirant to rolls , tumbles , and the brush , will flush his memory with the frolic gayety of other days , and animate his mind with reflections most welcome to his heart .",
         "target_text": "Carefree, reckless, irresponsible.",
         "generated_text": "Alternative form of devil-may-care",
         "gold_label": "Not Hallucination",
@@ -1036,7 +1059,7 @@
         "p(Hallucination)": "0.00"
     },
     {
-        "input_text": "Pimpin \ufffd came so naturally to MT when he and his sisters played pimp and <define> hoe </define> games that one of his sisters wanted to hoe for him when they grew up .",
+        "input_text": "Pimpin � came so naturally to MT when he and his sisters played pimp and <define> hoe </define> games that one of his sisters wanted to hoe for him when they grew up .",
         "target_text": "(US, slang) .",
         "generated_text": "(intransitive, slang) To have sex.",
         "gold_label": "Hallucination",
@@ -1047,7 +1070,8 @@
         "student_answer": "Not Hallucination",
         "parttimer_answer": "Hallucination",
         "combined_answer": "Not Hallucination",
-        "p(Hallucination)": "0.20"
+        "p(Hallucination)": "0.20",
+        "task": "DM"
     },
     {
         "input_text": "I met one of your dons at tea , and he said that your degree was not in the least a proof of your abilities : he said that you knocked up and got <define> flurried </define> in examinations .",
@@ -1061,10 +1085,11 @@
         "student_answer": "Not Hallucination",
         "parttimer_answer": "Not Hallucination",
         "combined_answer": "Not Hallucination",
-        "p(Hallucination)": "0.00"
+        "p(Hallucination)": "0.00",
+        "task": "DM"
     },
     {
-        "input_text": "And on tonight \ufffds episode , when she faces a crisis \ufffd the reactions to her incoherent TV interviews last January \ufffd the carefully created sentences she uses to explain her slurry , <define> stumbly </define> self - presentation says it all .",
+        "input_text": "And on tonight �s episode , when she faces a crisis � the reactions to her incoherent TV interviews last January � the carefully created sentences she uses to explain her slurry , <define> stumbly </define> self - presentation says it all .",
         "target_text": "prone to stumble",
         "generated_text": "(figuratively, of a person) Having a tendency to stammer.",
         "gold_label": "Hallucination",
@@ -1092,7 +1117,7 @@
         "p(Hallucination)": "0.00"
     },
     {
-        "input_text": "And its success or failure is likely to tell whether talents as varied as Will Ferrell , Tom Cruise , Jerry Bruckheimer , Derek Jeter or Norah Jones \ufffd Creative Artists clients all \ufffd will maintain their leverage against evolving media giants like the News Corporation and Viacom or make new fortunes from the <define> nonentertainment </define> companies that are looking to Hollywood .",
+        "input_text": "And its success or failure is likely to tell whether talents as varied as Will Ferrell , Tom Cruise , Jerry Bruckheimer , Derek Jeter or Norah Jones � Creative Artists clients all � will maintain their leverage against evolving media giants like the News Corporation and Viacom or make new fortunes from the <define> nonentertainment </define> companies that are looking to Hollywood .",
         "target_text": "Not of or pertaining to entertainment.",
         "generated_text": "Not entertainment.",
         "gold_label": "Not Hallucination",
@@ -1131,10 +1156,11 @@
         "student_answer": "Hallucination",
         "parttimer_answer": "Hallucination",
         "combined_answer": "Hallucination",
-        "p(Hallucination)": "1.00"
+        "p(Hallucination)": "1.00",
+        "task": "DM"
     },
     {
-        "input_text": "\ufffd What are you doing ? \ufffd Carly asked , looking around . \ufffd You do n\ufffdt want to be in here . You \ufffdre way too much of a princess . \ufffd / \ufffd Remember how I grew up , Carly . I \ufffdve earned my <define> princessness </define> . \ufffd",
+        "input_text": "� What are you doing ? � Carly asked , looking around . � You do n�t want to be in here . You �re way too much of a princess . � / � Remember how I grew up , Carly . I �ve earned my <define> princessness </define> . �",
         "target_text": "The quality of being a princess.",
         "generated_text": "The state or quality of being a princess.",
         "gold_label": "Not Hallucination",
@@ -1173,7 +1199,8 @@
         "student_answer": "Hallucination",
         "parttimer_answer": "Hallucination",
         "combined_answer": "Hallucination",
-        "p(Hallucination)": "1.00"
+        "p(Hallucination)": "1.00",
+        "task": "DM"
     },
     {
         "input_text": "Love and sex , these were an icing on his whole <define> cakeful </define> of goodies . Like many women , Rebecca realized that such a cakeful of goodies could not exist for him were she not there to do the innumerable drudge tasks of daily existence .",
@@ -1201,7 +1228,8 @@
         "student_answer": "Not Hallucination",
         "parttimer_answer": "Not Hallucination",
         "combined_answer": "Not Hallucination",
-        "p(Hallucination)": "0.00"
+        "p(Hallucination)": "0.00",
+        "task": "DM"
     },
     {
         "input_text": "The Handel excerpts are afflicted with a combination of high surface noise from the source material as well as variably <define> muzzy </define> sound .",
@@ -1215,7 +1243,8 @@
         "student_answer": "Hallucination",
         "parttimer_answer": "Hallucination",
         "combined_answer": "Hallucination",
-        "p(Hallucination)": "1.00"
+        "p(Hallucination)": "1.00",
+        "task": "DM"
     },
     {
         "input_text": "in the <define> overbuilt </define> exurbs of the megalopolis",
@@ -1257,7 +1286,8 @@
         "student_answer": "Not Hallucination",
         "parttimer_answer": "Hallucination",
         "combined_answer": "Hallucination",
-        "p(Hallucination)": "0.80"
+        "p(Hallucination)": "0.80",
+        "task": "DM"
     },
     {
         "input_text": "\" That venerable old <define> ripsnorter </define> defended the right of the clergy to drive fast horses \" -- Phil Stong",
@@ -1274,7 +1304,7 @@
         "p(Hallucination)": "1.00"
     },
     {
-        "input_text": "\" They do eat up one 's time \ufffd \" she checks herself again , checks her lapdog 's struggles against <define> lapdoggery </define> , and interviewers , and dubious , childless relationships   [ \ufffd ]",
+        "input_text": "\" They do eat up one 's time � \" she checks herself again , checks her lapdog 's struggles against <define> lapdoggery </define> , and interviewers , and dubious , childless relationships   [ � ]",
         "target_text": "Behavior or activity characteristic of a lapdog, such as idleness or submission.",
         "generated_text": "(informal) The practice of behaving like a lapdog.",
         "gold_label": "Not Hallucination",
@@ -1439,10 +1469,11 @@
         "student_answer": "Not Hallucination",
         "parttimer_answer": "Not Hallucination",
         "combined_answer": "Not Hallucination",
-        "p(Hallucination)": "0.00"
+        "p(Hallucination)": "0.00",
+        "task": "DM"
     },
     {
-        "input_text": "To coincide with the launch , LNER has introduced fixed - price <define> all - in - one </define> return fares for two adults and up to four children , priced at \ufffd 129 between London , Thornaby and London .",
+        "input_text": "To coincide with the launch , LNER has introduced fixed - price <define> all - in - one </define> return fares for two adults and up to four children , priced at � 129 between London , Thornaby and London .",
         "target_text": "Combining two or more items in one unit.",
         "generated_text": "Alternative form of all-in-one",
         "gold_label": "Not Hallucination",
@@ -1467,7 +1498,8 @@
         "student_answer": "Not Hallucination",
         "parttimer_answer": "Not Hallucination",
         "combined_answer": "Not Hallucination",
-        "p(Hallucination)": "0.00"
+        "p(Hallucination)": "0.00",
+        "task": "DM"
     },
     {
         "input_text": "Good Fridays were unremarkable except for the hot - cross buns that Aunty Sue used to bake , and the drive to Point Fortin to look for Good Friday <define> bobolees </define> .",
@@ -1523,7 +1555,8 @@
         "student_answer": "Not Hallucination",
         "parttimer_answer": "Not Hallucination",
         "combined_answer": "Not Hallucination",
-        "p(Hallucination)": "0.00"
+        "p(Hallucination)": "0.00",
+        "task": "DM"
     },
     {
         "input_text": "<define> white </define> birch",
@@ -1537,10 +1570,11 @@
         "student_answer": "Not Hallucination",
         "parttimer_answer": "Not Hallucination",
         "combined_answer": "Not Hallucination",
-        "p(Hallucination)": "0.00"
+        "p(Hallucination)": "0.00",
+        "task": "DM"
     },
     {
-        "input_text": "A few years ago grey - haired people as well as little children were seized with the <define> stampomania </define> , and then our most secret drawers , our most private papers , our most loving letters of bygone years were ransacked by our best friends   [ \ufffd ]",
+        "input_text": "A few years ago grey - haired people as well as little children were seized with the <define> stampomania </define> , and then our most secret drawers , our most private papers , our most loving letters of bygone years were ransacked by our best friends   [ � ]",
         "target_text": "A passion for collecting postage stamps.",
         "generated_text": "(informal) An obsession with stamps.",
         "gold_label": "Not Hallucination",
@@ -1593,7 +1627,8 @@
         "student_answer": "Not Hallucination",
         "parttimer_answer": "Not Hallucination",
         "combined_answer": "Not Hallucination",
-        "p(Hallucination)": "0.00"
+        "p(Hallucination)": "0.00",
+        "task": "DM"
     },
     {
         "input_text": "The pamphlet also makes no mention of the C.T.E. cases , whose increasing number is convincing many experts that <define> subconcussive </define> brain trauma can have cumulative effects .",
@@ -1607,7 +1642,8 @@
         "student_answer": "Not Hallucination",
         "parttimer_answer": "Not Hallucination",
         "combined_answer": "Not Hallucination",
-        "p(Hallucination)": "0.00"
+        "p(Hallucination)": "0.00",
+        "task": "DM"
     },
     {
         "input_text": "But , as the principal of the loan , or , if you will , the capital lent , is generally consumed in consequence of this transfer , public loans produce an <define> improductive </define> consumption , a destruction of capital .",
@@ -1649,7 +1685,8 @@
         "student_answer": "Hallucination",
         "parttimer_answer": "Hallucination",
         "combined_answer": "Hallucination",
-        "p(Hallucination)": "1.00"
+        "p(Hallucination)": "1.00",
+        "task": "DM"
     },
     {
         "input_text": "<define> momental </define> ellipsoid",
@@ -1680,7 +1717,7 @@
         "p(Hallucination)": "0.00"
     },
     {
-        "input_text": "There does seem to have been some mutation among plants [ \ufffd ] but in animal life where are the <define> mutants </define> ? When or where has a new species originated in this way ?",
+        "input_text": "There does seem to have been some mutation among plants [ � ] but in animal life where are the <define> mutants </define> ? When or where has a new species originated in this way ?",
         "target_text": "(genetics) That has mutated, with one or more new characteristics from a mutation.",
         "generated_text": "(biology) An organism that has undergone a mutation.",
         "gold_label": "Not Hallucination",
@@ -1719,7 +1756,8 @@
         "student_answer": "Not Hallucination",
         "parttimer_answer": "Hallucination",
         "combined_answer": "Not Hallucination",
-        "p(Hallucination)": "0.40"
+        "p(Hallucination)": "0.40",
+        "task": "DM"
     },
     {
         "input_text": "And what difference is there between the credibleness and <define> rationalness </define> of any of these wonders and the credibleness and rationalness of Papal infallibility ?",
@@ -1733,7 +1771,8 @@
         "student_answer": "Not Hallucination",
         "parttimer_answer": "Not Hallucination",
         "combined_answer": "Not Hallucination",
-        "p(Hallucination)": "0.00"
+        "p(Hallucination)": "0.00",
+        "task": "DM"
     },
     {
         "input_text": "I have spent much of my life a recovering <define> sportaholic </define> . If it bounced , rolled , slid , or flew , I chased it . Or watched it .",
@@ -1764,7 +1803,7 @@
         "p(Hallucination)": "1.00"
     },
     {
-        "input_text": "I sincerely hope we \ufffdre the only research group to lose <define> Malaise traps </define> to fire , hail , and flood in the same season .",
+        "input_text": "I sincerely hope we �re the only research group to lose <define> Malaise traps </define> to fire , hail , and flood in the same season .",
         "target_text": "A large tent-like structure used for trapping flying insects.",
         "generated_text": "(archaeology) A type of trap used in the study of mollusks.",
         "gold_label": "Hallucination",
@@ -1803,10 +1842,11 @@
         "student_answer": "Not Hallucination",
         "parttimer_answer": "Not Hallucination",
         "combined_answer": "Not Hallucination",
-        "p(Hallucination)": "0.00"
+        "p(Hallucination)": "0.00",
+        "task": "DM"
     },
     {
-        "input_text": "I prefer this \ufffd the pork fat made the sauce a little too oily for absolute comfort , and I am no <define> fatphobe </define> , as you know \ufffd and more pointedly so do my children .",
+        "input_text": "I prefer this � the pork fat made the sauce a little too oily for absolute comfort , and I am no <define> fatphobe </define> , as you know � and more pointedly so do my children .",
         "target_text": "A person who worries excessively about the fat content of their food.",
         "generated_text": "(informal) A person who is afraid of fat.",
         "gold_label": "Not Hallucination",
@@ -1817,7 +1857,8 @@
         "student_answer": "Hallucination",
         "parttimer_answer": "Hallucination",
         "combined_answer": "Hallucination",
-        "p(Hallucination)": "1.00"
+        "p(Hallucination)": "1.00",
+        "task": "DM"
     },
     {
         "input_text": "to <define> tackify </define> rubber",
@@ -1834,7 +1875,7 @@
         "p(Hallucination)": "0.00"
     },
     {
-        "input_text": "The fact that <define> comp\ufffdres </define> routinely wait no more and no less than eight seconds before interrupting means that they decide at just that point that an audience has been clapping long enough , [ ... ]",
+        "input_text": "The fact that <define> comp�res </define> routinely wait no more and no less than eight seconds before interrupting means that they decide at just that point that an audience has been clapping long enough , [ ... ]",
         "target_text": "(chiefly, British)",
         "generated_text": "(music) A member of a musical ensemble.",
         "gold_label": "Hallucination",
@@ -1890,7 +1931,7 @@
         "p(Hallucination)": "1.00"
     },
     {
-        "input_text": "\ufffd <define> Kurkuls </define> are our enemy , \ufffd he shouted , \ufffd and we must exterminate them as a social class . There should be no place for the sharks among the harmless fish , \ufffd he added . Then he described the kurkuls as an evil tool of capitalists who were preparing an attack on the Soviet Union .",
+        "input_text": "� <define> Kurkuls </define> are our enemy , � he shouted , � and we must exterminate them as a social class . There should be no place for the sharks among the harmless fish , � he added . Then he described the kurkuls as an evil tool of capitalists who were preparing an attack on the Soviet Union .",
         "target_text": "(historical) A rich or supposedly rich peasant, targeted during Soviet collectivization, especially in the context of Ukraine or Ukrainians; kulak.",
         "generated_text": "(rare) A kurkul.",
         "gold_label": "Hallucination",
@@ -1915,7 +1956,8 @@
         "student_answer": "Not Hallucination",
         "parttimer_answer": "Hallucination",
         "combined_answer": "Hallucination",
-        "p(Hallucination)": "0.80"
+        "p(Hallucination)": "0.80",
+        "task": "DM"
     },
     {
         "input_text": "Wu Hai , whose objections to contamination of the patrilineal line were cited above , described an <define> ancestral hall </define> ( tz'u - t'ang )   of the Lins of Lo - t'ien ( Hupei ) .",
@@ -1929,7 +1971,8 @@
         "student_answer": "Hallucination",
         "parttimer_answer": "Hallucination",
         "combined_answer": "Hallucination",
-        "p(Hallucination)": "0.80"
+        "p(Hallucination)": "0.80",
+        "task": "DM"
     },
     {
         "input_text": "33 In a historical irony , the Daleks have been taken as metaphors for the Nazis ; the other main <define> Whovian </define> adversaries , the Cybermen , were likewise metaphors for Cold War Communists .",
@@ -1957,7 +2000,8 @@
         "student_answer": "Not Hallucination",
         "parttimer_answer": "Not Hallucination",
         "combined_answer": "Not Hallucination",
-        "p(Hallucination)": "0.00"
+        "p(Hallucination)": "0.00",
+        "task": "DM"
     },
     {
         "input_text": "We drove 15 <define> ks </define> before we realised Billy was n't in the back seat .",
@@ -1971,7 +2015,8 @@
         "student_answer": "Not Hallucination",
         "parttimer_answer": "Not Hallucination",
         "combined_answer": "Not Hallucination",
-        "p(Hallucination)": "0.20"
+        "p(Hallucination)": "0.20",
+        "task": "DM"
     },
     {
         "input_text": "Hey , <define> babe </define> , how 's about you and me getting together ?",
@@ -1985,10 +2030,11 @@
         "student_answer": "Not Hallucination",
         "parttimer_answer": "Not Hallucination",
         "combined_answer": "Not Hallucination",
-        "p(Hallucination)": "0.00"
+        "p(Hallucination)": "0.00",
+        "task": "DM"
     },
     {
-        "input_text": "[ \ufffd ]   the cows , tails <define> aswish </define> , clustering already for milking",
+        "input_text": "[ � ]   the cows , tails <define> aswish </define> , clustering already for milking",
         "target_text": "Swishing, making a rustling sound while moving.",
         "generated_text": "(obsolete) With the tail wagging.",
         "gold_label": "Hallucination",
@@ -2072,7 +2118,7 @@
         "p(Hallucination)": "1.00"
     },
     {
-        "input_text": "[ \ufffd ]   the atmosphere was now animated with the efficient principle of vegetative life ; the <define> arbustive </define> hills , gay lawns , and green meadows   [ \ufffd ]",
+        "input_text": "[ � ]   the atmosphere was now animated with the efficient principle of vegetative life ; the <define> arbustive </define> hills , gay lawns , and green meadows   [ � ]",
         "target_text": "containing copses of trees or shrubs; covered with shrubs",
         "generated_text": "(obsolete) Of or pertaining to trees.",
         "gold_label": "Hallucination",
@@ -2086,7 +2132,7 @@
         "p(Hallucination)": "1.00"
     },
     {
-        "input_text": "Noah did n't realize when he stayed on the job - he was then about 600 years old and built the ark and drove the animals in two by two , the <define> hatfish </define> and the kangaroo \ufffd \ufffd he did n't realize he was laying the foundation for an occupation for old men in New York , several years later .",
+        "input_text": "Noah did n't realize when he stayed on the job - he was then about 600 years old and built the ark and drove the animals in two by two , the <define> hatfish </define> and the kangaroo � � he did n't realize he was laying the foundation for an occupation for old men in New York , several years later .",
         "target_text": "(colloquial) Synonym of halibut",
         "generated_text": "(Australia, New Zealand, colloquial) A hatfish.",
         "gold_label": "Not Hallucination",
@@ -2097,7 +2143,8 @@
         "student_answer": "Hallucination",
         "parttimer_answer": "Hallucination",
         "combined_answer": "Hallucination",
-        "p(Hallucination)": "1.00"
+        "p(Hallucination)": "1.00",
+        "task": "DM"
     },
     {
         "input_text": "footwear ; outdoor <define> wear </define> ; maternity wear",
@@ -2128,7 +2175,7 @@
         "p(Hallucination)": "0.00"
     },
     {
-        "input_text": "The TV critic had the results of the June rating survey by Arbitron and Nielsen .   [ \ufffd ]   He has the hard numbers on the June book plus the recent Nielsen <define> overnights </define> .",
+        "input_text": "The TV critic had the results of the June rating survey by Arbitron and Nielsen .   [ � ]   He has the hard numbers on the June book plus the recent Nielsen <define> overnights </define> .",
         "target_text": "(television, in the plural) Viewership ratings for a television show that are published the morning after it is broadcast, and may be revised later on.",
         "generated_text": "(television) An overnight broadcast of a television program.",
         "gold_label": "Hallucination",
@@ -2153,7 +2200,8 @@
         "student_answer": "Not Hallucination",
         "parttimer_answer": "Not Hallucination",
         "combined_answer": "Not Hallucination",
-        "p(Hallucination)": "0.00"
+        "p(Hallucination)": "0.00",
+        "task": "DM"
     },
     {
         "input_text": "Sullen , desponding , and <define> foreboding </define> nothing but wars and desolation , as the certain consequence of Caesar 's death .",
@@ -2195,10 +2243,11 @@
         "student_answer": "Not Hallucination",
         "parttimer_answer": "Not Hallucination",
         "combined_answer": "Not Hallucination",
-        "p(Hallucination)": "0.00"
+        "p(Hallucination)": "0.00",
+        "task": "DM"
     },
     {
-        "input_text": "Despite the opposition of professional politicians of unsavory reputation and men the Tribune described as \ufffd irresponsible <define> soreheads </define> , \ufffd the Medill ticket swept into office with a flatteringly large vote .",
+        "input_text": "Despite the opposition of professional politicians of unsavory reputation and men the Tribune described as � irresponsible <define> soreheads </define> , � the Medill ticket swept into office with a flatteringly large vote .",
         "target_text": "(derogatory, US, political slang) A politician who is dissatisfied through failure, lack of recognition, etc. [from 19th c]",
         "generated_text": "(informal, pejorative) A person who is easily offended.",
         "gold_label": "Hallucination",
@@ -2279,7 +2328,8 @@
         "student_answer": "Not Hallucination",
         "parttimer_answer": "Not Hallucination",
         "combined_answer": "Not Hallucination",
-        "p(Hallucination)": "0.20"
+        "p(Hallucination)": "0.20",
+        "task": "DM"
     },
     {
         "input_text": "This chapter has also <define> set the scene </define> by reviewing the operational structure of benchmarking , as well as outlining the research materials central to this study .",
@@ -2338,7 +2388,7 @@
         "p(Hallucination)": "1.00"
     },
     {
-        "input_text": "No one , however , would have anything to do with him , as Mr. Keeson 's orders in those respects were very strict   ; he had often threatened any one of his employ\ufffds with <define> instant </define> dismissal if he found him in company with one of these touts .",
+        "input_text": "No one , however , would have anything to do with him , as Mr. Keeson 's orders in those respects were very strict   ; he had often threatened any one of his employ�s with <define> instant </define> dismissal if he found him in company with one of these touts .",
         "target_text": "Occurring immediately; immediate; present.",
         "generated_text": "Immediately; without delay.",
         "gold_label": "Not Hallucination",
@@ -2380,9 +2430,9 @@
         "p(Hallucination)": "0.00"
     },
     {
-        "input_text": "A central kitchen serves a <define> cafeterie </define> , seating two hundred ; a caf\ufffd , seating seventy ; and a lunch counter with stools for forty .",
+        "input_text": "A central kitchen serves a <define> cafeterie </define> , seating two hundred ; a caf� , seating seventy ; and a lunch counter with stools for forty .",
         "target_text": "(dated) Cafeteria.",
-        "generated_text": "(countable) A caf\ufffd.",
+        "generated_text": "(countable) A caf�.",
         "gold_label": "Hallucination",
         "gold_p(Hallucination)": 0.6,
         "editor_answer": "Hallucination",
@@ -2394,7 +2444,7 @@
         "p(Hallucination)": "0.60"
     },
     {
-        "input_text": "The country \ufffds \ufffd self - serving and bogus view of history , \ufffd which pities the rest of the world for its disorder , hides what he sees as \ufffd the lumpen and <define> louty </define> , coarse , unsubtle , beady - eyed , beefy - bummed herd of England . \ufffd",
+        "input_text": "The country �s � self - serving and bogus view of history , � which pities the rest of the world for its disorder , hides what he sees as � the lumpen and <define> louty </define> , coarse , unsubtle , beady - eyed , beefy - bummed herd of England . �",
         "target_text": "(rare) loutish",
         "generated_text": "(informal) Loutish.",
         "gold_label": "Not Hallucination",
@@ -2433,10 +2483,11 @@
         "student_answer": "Not Hallucination",
         "parttimer_answer": "Not Hallucination",
         "combined_answer": "Not Hallucination",
-        "p(Hallucination)": "0.00"
+        "p(Hallucination)": "0.00",
+        "task": "DM"
     },
     {
-        "input_text": "The Great Russians ought to be carefully distinguished from \ufffd the Malo - Russians \ufffd or the \ufffd Little Russians . \ufffd The inhabitants of the Ukraine , or of the governments Tchernigof , Poltava , Kharkof , call the great Russians or the Muscovites \ufffd kazaps , goats , \ufffd from their wearing beards , and are in their turn termed by the Great Russians <define> khokhols </define> , \ufffd hair tufts , \ufffd which they themselves call tchub , tchupran , a tuft of the same kind as that which the Chinese wear on the top of the head ; this is an old Slavonian custom , as appears from history , which mentions such a one being worn by the Russian Prince Sviatoslav , when carrying on war in Bulgaria .",
+        "input_text": "The Great Russians ought to be carefully distinguished from � the Malo - Russians � or the � Little Russians . � The inhabitants of the Ukraine , or of the governments Tchernigof , Poltava , Kharkof , call the great Russians or the Muscovites � kazaps , goats , � from their wearing beards , and are in their turn termed by the Great Russians <define> khokhols </define> , � hair tufts , � which they themselves call tchub , tchupran , a tuft of the same kind as that which the Chinese wear on the top of the head ; this is an old Slavonian custom , as appears from history , which mentions such a one being worn by the Russian Prince Sviatoslav , when carrying on war in Bulgaria .",
         "target_text": "(pejorative, in a Russian context) A Ukrainian.",
         "generated_text": "(archaic) A tuft of hair on the top of the head.",
         "gold_label": "Hallucination",
@@ -2447,7 +2498,8 @@
         "student_answer": "Not Hallucination",
         "parttimer_answer": "Not Hallucination",
         "combined_answer": "Not Hallucination",
-        "p(Hallucination)": "0.00"
+        "p(Hallucination)": "0.00",
+        "task": "DM"
     },
     {
         "input_text": "<define> keen </define> satire or sarcasm",
@@ -2475,7 +2527,8 @@
         "student_answer": "Not Hallucination",
         "parttimer_answer": "Not Hallucination",
         "combined_answer": "Not Hallucination",
-        "p(Hallucination)": "0.00"
+        "p(Hallucination)": "0.00",
+        "task": "DM"
     },
     {
         "input_text": "2 <define> balikbayans </define> kidnapped in Zamboanga City .",
@@ -2531,7 +2584,8 @@
         "student_answer": "Hallucination",
         "parttimer_answer": "Hallucination",
         "combined_answer": "Hallucination",
-        "p(Hallucination)": "1.00"
+        "p(Hallucination)": "1.00",
+        "task": "DM"
     },
     {
         "input_text": "Are you going to any <define> outfires </define> this year ? Yes , Barcombe and Glynde I think .",
@@ -2562,7 +2616,7 @@
         "p(Hallucination)": "1.00"
     },
     {
-        "input_text": "When the surfer has passed the point where the waves are breaking , and is among the waves which are known as \ufffd <define> greenbacks </define> \ufffd , he may either dive through them or float over them ,   [ \ufffd ]",
+        "input_text": "When the surfer has passed the point where the waves are breaking , and is among the waves which are known as � <define> greenbacks </define> � , he may either dive through them or float over them ,   [ � ]",
         "target_text": "(surfing) A wave that has not yet begun to break.",
         "generated_text": "(surfing, slang) A large wave.",
         "gold_label": "Hallucination",
@@ -2671,7 +2725,8 @@
         "student_answer": "Hallucination",
         "parttimer_answer": "Hallucination",
         "combined_answer": "Hallucination",
-        "p(Hallucination)": "0.80"
+        "p(Hallucination)": "0.80",
+        "task": "PG"
     },
     {
         "input_text": "You've got a client.",
@@ -2713,7 +2768,8 @@
         "student_answer": "Not Hallucination",
         "parttimer_answer": "Not Hallucination",
         "combined_answer": "Not Hallucination",
-        "p(Hallucination)": "0.00"
+        "p(Hallucination)": "0.00",
+        "task": "PG"
     },
     {
         "input_text": "Are we resolved?",
@@ -2727,7 +2783,8 @@
         "student_answer": "Hallucination",
         "parttimer_answer": "Hallucination",
         "combined_answer": "Hallucination",
-        "p(Hallucination)": "0.80"
+        "p(Hallucination)": "0.80",
+        "task": "PG"
     },
     {
         "input_text": "Have you practiced?",
@@ -2839,7 +2896,8 @@
         "student_answer": "Not Hallucination",
         "parttimer_answer": "Not Hallucination",
         "combined_answer": "Not Hallucination",
-        "p(Hallucination)": "0.00"
+        "p(Hallucination)": "0.00",
+        "task": "PG"
     },
     {
         "input_text": "He did not pull through.",
@@ -2867,7 +2925,8 @@
         "student_answer": "Hallucination",
         "parttimer_answer": "Hallucination",
         "combined_answer": "Hallucination",
-        "p(Hallucination)": "0.60"
+        "p(Hallucination)": "0.60",
+        "task": "PG"
     },
     {
         "input_text": "I didn't kill her.",
@@ -2951,7 +3010,8 @@
         "student_answer": "Not Hallucination",
         "parttimer_answer": "Not Hallucination",
         "combined_answer": "Not Hallucination",
-        "p(Hallucination)": "0.00"
+        "p(Hallucination)": "0.00",
+        "task": "PG"
     },
     {
         "input_text": "How long have you known?",
@@ -2993,7 +3053,8 @@
         "student_answer": "Not Hallucination",
         "parttimer_answer": "Not Hallucination",
         "combined_answer": "Not Hallucination",
-        "p(Hallucination)": "0.00"
+        "p(Hallucination)": "0.00",
+        "task": "PG"
     },
     {
         "input_text": "I don't question that.",
@@ -3035,7 +3096,8 @@
         "student_answer": "Not Hallucination",
         "parttimer_answer": "Not Hallucination",
         "combined_answer": "Not Hallucination",
-        "p(Hallucination)": "0.00"
+        "p(Hallucination)": "0.00",
+        "task": "PG"
     },
     {
         "input_text": "There's got to be a different way.",
@@ -3091,7 +3153,8 @@
         "student_answer": "Hallucination",
         "parttimer_answer": "Hallucination",
         "combined_answer": "Hallucination",
-        "p(Hallucination)": "1.00"
+        "p(Hallucination)": "1.00",
+        "task": "PG"
     },
     {
         "input_text": "Have a nice time.",
@@ -3203,7 +3266,8 @@
         "student_answer": "Not Hallucination",
         "parttimer_answer": "Not Hallucination",
         "combined_answer": "Not Hallucination",
-        "p(Hallucination)": "0.20"
+        "p(Hallucination)": "0.20",
+        "task": "PG"
     },
     {
         "input_text": "Talk to you later, pal.",
@@ -3357,7 +3421,8 @@
         "student_answer": "Not Hallucination",
         "parttimer_answer": "Not Hallucination",
         "combined_answer": "Not Hallucination",
-        "p(Hallucination)": "0.20"
+        "p(Hallucination)": "0.20",
+        "task": "PG"
     },
     {
         "input_text": "Now, what gives you that idea?",
@@ -3399,7 +3464,8 @@
         "student_answer": "Not Hallucination",
         "parttimer_answer": "Not Hallucination",
         "combined_answer": "Not Hallucination",
-        "p(Hallucination)": "0.00"
+        "p(Hallucination)": "0.00",
+        "task": "PG"
     },
     {
         "input_text": "You're not done yet.",
@@ -3427,7 +3493,8 @@
         "student_answer": "Not Hallucination",
         "parttimer_answer": "Hallucination",
         "combined_answer": "Hallucination",
-        "p(Hallucination)": "0.60"
+        "p(Hallucination)": "0.60",
+        "task": "PG"
     },
     {
         "input_text": "Let's go through this again.",
@@ -3441,7 +3508,8 @@
         "student_answer": "Not Hallucination",
         "parttimer_answer": "Not Hallucination",
         "combined_answer": "Not Hallucination",
-        "p(Hallucination)": "0.00"
+        "p(Hallucination)": "0.00",
+        "task": "PG"
     },
     {
         "input_text": "Do you have a suspect?",
@@ -3455,7 +3523,8 @@
         "student_answer": "Not Hallucination",
         "parttimer_answer": "Not Hallucination",
         "combined_answer": "Not Hallucination",
-        "p(Hallucination)": "0.40"
+        "p(Hallucination)": "0.40",
+        "task": "PG"
     },
     {
         "input_text": "I beg to differ.",
@@ -3525,7 +3594,8 @@
         "student_answer": "Hallucination",
         "parttimer_answer": "Hallucination",
         "combined_answer": "Hallucination",
-        "p(Hallucination)": "1.00"
+        "p(Hallucination)": "1.00",
+        "task": "PG"
     },
     {
         "input_text": "This is an essential service route.",
@@ -3581,7 +3651,8 @@
         "student_answer": "Not Hallucination",
         "parttimer_answer": "Not Hallucination",
         "combined_answer": "Not Hallucination",
-        "p(Hallucination)": "0.00"
+        "p(Hallucination)": "0.00",
+        "task": "PG"
     },
     {
         "input_text": "Do you think I'm a monster?",
@@ -3595,7 +3666,8 @@
         "student_answer": "Not Hallucination",
         "parttimer_answer": "Hallucination",
         "combined_answer": "Not Hallucination",
-        "p(Hallucination)": "0.40"
+        "p(Hallucination)": "0.40",
+        "task": "PG"
     },
     {
         "input_text": "I'll get you somewhere safe.",
@@ -3735,7 +3807,8 @@
         "student_answer": "Hallucination",
         "parttimer_answer": "Hallucination",
         "combined_answer": "Hallucination",
-        "p(Hallucination)": "1.00"
+        "p(Hallucination)": "1.00",
+        "task": "PG"
     },
     {
         "input_text": "I didn't sign up for this.",
@@ -3833,7 +3906,8 @@
         "student_answer": "Hallucination",
         "parttimer_answer": "Hallucination",
         "combined_answer": "Hallucination",
-        "p(Hallucination)": "1.00"
+        "p(Hallucination)": "1.00",
+        "task": "PG"
     },
     {
         "input_text": "We just have to get you to the hospital.",
@@ -3861,7 +3935,8 @@
         "student_answer": "Hallucination",
         "parttimer_answer": "Hallucination",
         "combined_answer": "Hallucination",
-        "p(Hallucination)": "1.00"
+        "p(Hallucination)": "1.00",
+        "task": "PG"
     },
     {
         "input_text": "I'm just like everyone else.",
@@ -3945,7 +4020,8 @@
         "student_answer": "Hallucination",
         "parttimer_answer": "Not Hallucination",
         "combined_answer": "Hallucination",
-        "p(Hallucination)": "0.80"
+        "p(Hallucination)": "0.80",
+        "task": "PG"
     },
     {
         "input_text": "Do you have the fever?",
@@ -3973,7 +4049,8 @@
         "student_answer": "Hallucination",
         "parttimer_answer": "Hallucination",
         "combined_answer": "Hallucination",
-        "p(Hallucination)": "1.00"
+        "p(Hallucination)": "1.00",
+        "task": "PG"
     },
     {
         "input_text": "It's urgent, she says.",
@@ -3987,7 +4064,8 @@
         "student_answer": "Hallucination",
         "parttimer_answer": "Hallucination",
         "combined_answer": "Hallucination",
-        "p(Hallucination)": "1.00"
+        "p(Hallucination)": "1.00",
+        "task": "PG"
     },
     {
         "input_text": "I'll be right with you.",
@@ -4043,7 +4121,8 @@
         "student_answer": "Not Hallucination",
         "parttimer_answer": "Not Hallucination",
         "combined_answer": "Not Hallucination",
-        "p(Hallucination)": "0.00"
+        "p(Hallucination)": "0.00",
+        "task": "PG"
     },
     {
         "input_text": "I'm gonna make a call.",
@@ -4057,7 +4136,8 @@
         "student_answer": "Hallucination",
         "parttimer_answer": "Hallucination",
         "combined_answer": "Hallucination",
-        "p(Hallucination)": "1.00"
+        "p(Hallucination)": "1.00",
+        "task": "PG"
     },
     {
         "input_text": "I'm doing the best that I can.",
@@ -4099,7 +4179,8 @@
         "student_answer": "Not Hallucination",
         "parttimer_answer": "Not Hallucination",
         "combined_answer": "Not Hallucination",
-        "p(Hallucination)": "0.00"
+        "p(Hallucination)": "0.00",
+        "task": "PG"
     },
     {
         "input_text": "And she's doing good.",
@@ -4141,7 +4222,8 @@
         "student_answer": "Hallucination",
         "parttimer_answer": "Hallucination",
         "combined_answer": "Hallucination",
-        "p(Hallucination)": "1.00"
+        "p(Hallucination)": "1.00",
+        "task": "PG"
     },
     {
         "input_text": "Your fly is unzipped.",
@@ -4211,7 +4293,8 @@
         "student_answer": "Not Hallucination",
         "parttimer_answer": "Not Hallucination",
         "combined_answer": "Not Hallucination",
-        "p(Hallucination)": "0.00"
+        "p(Hallucination)": "0.00",
+        "task": "PG"
     },
     {
         "input_text": "It's been six weeks.",
@@ -4267,7 +4350,8 @@
         "student_answer": "Hallucination",
         "parttimer_answer": "Hallucination",
         "combined_answer": "Hallucination",
-        "p(Hallucination)": "1.00"
+        "p(Hallucination)": "1.00",
+        "task": "PG"
     },
     {
         "input_text": "Can you manage that?",
@@ -4351,7 +4435,8 @@
         "student_answer": "Hallucination",
         "parttimer_answer": "Hallucination",
         "combined_answer": "Hallucination",
-        "p(Hallucination)": "1.00"
+        "p(Hallucination)": "1.00",
+        "task": "PG"
     },
     {
         "input_text": "I never told you that.",
@@ -4368,7 +4453,7 @@
         "p(Hallucination)": "0.20"
     },
     {
-        "input_text": "\u0414\u0436\u043e\u043d \u0438 \u042d\u043d\u043d \u043d\u0440\u0430\u0432\u044f\u0442\u0441\u044f \u0434\u0440\u0443\u0433 \u0434\u0440\u0443\u0433\u0443.",
+        "input_text": "Джон и Энн нравятся друг другу.",
         "target_text": "John and Ann like each other.",
         "generated_text": "John and John are the only one of them.",
         "gold_label": "Hallucination",
@@ -4382,7 +4467,7 @@
         "p(Hallucination)": "1.00"
     },
     {
-        "input_text": "\u041a\u0430\u043a \u0443 \u0422\u043e\u043c\u0430 \u0441 \u0444\u0440\u0430\u043d\u0446\u0443\u0437\u0441\u043a\u0438\u043c? - \"\u041d\u0435\u043f\u043b\u043e\u0445\u043e\".",
+        "input_text": "Как у Тома с французским? - \"Неплохо\".",
         "target_text": "How's Tom's French? \"Pretty good.\"",
         "generated_text": "How about Tom and French? - \"Not bad.\"",
         "gold_label": "Not Hallucination",
@@ -4396,7 +4481,7 @@
         "p(Hallucination)": "0.40"
     },
     {
-        "input_text": "\u042f \u0434\u0443\u043c\u0430\u044e, \u0422\u043e\u043c\u0443 \u043d\u0443\u0436\u043d\u043e \u043f\u0435\u0440\u0435\u043e\u0434\u0435\u0442\u044c\u0441\u044f.",
+        "input_text": "Я думаю, Тому нужно переодеться.",
         "target_text": "I think Tom needs to change his clothes.",
         "generated_text": "I think that's why you need to dress up.",
         "gold_label": "Hallucination",
@@ -4410,7 +4495,7 @@
         "p(Hallucination)": "1.00"
     },
     {
-        "input_text": "\u0411\u044b\u043b \u0431\u044b \u044f \u043a\u0430\u043d\u0430\u0434\u0435\u0446!",
+        "input_text": "Был бы я канадец!",
         "target_text": "I wish I were a Canadian.",
         "generated_text": "I would be Canadian!",
         "gold_label": "Hallucination",
@@ -4421,10 +4506,11 @@
         "student_answer": "Not Hallucination",
         "parttimer_answer": "Not Hallucination",
         "combined_answer": "Not Hallucination",
-        "p(Hallucination)": "0.00"
+        "p(Hallucination)": "0.00",
+        "task": "MT"
     },
     {
-        "input_text": "\u041e\u0434\u043d\u043e\u043a\u043b\u0430\u0441\u0441\u043d\u0438\u043a\u0438 \u043e\u0431\u0437\u044b\u0432\u0430\u043b\u0438 \u0422\u043e\u043c\u0430.",
+        "input_text": "Одноклассники обзывали Тома.",
         "target_text": "Tom's classmates called him names.",
         "generated_text": "The classmates called Tom.",
         "gold_label": "Hallucination",
@@ -4438,7 +4524,7 @@
         "p(Hallucination)": "0.80"
     },
     {
-        "input_text": "\u041f\u043e\u0434\u043e\u0436\u0434\u0438, \u0442\u044b \u044d\u0442\u043e \u0441\u0435\u0440\u044c\u0451\u0437\u043d\u043e?",
+        "input_text": "Подожди, ты это серьёзно?",
         "target_text": "Whoa, are you serious?",
         "generated_text": "Excuse me, you're serious?",
         "gold_label": "Not Hallucination",
@@ -4452,7 +4538,7 @@
         "p(Hallucination)": "0.00"
     },
     {
-        "input_text": "\u041a\u043e\u043c\u043d\u0430\u0442\u0430 \u0422\u043e\u043c\u0430 \u043f\u043e\u0445\u043e\u0436\u0430 \u043d\u0430 \u0441\u0432\u0438\u043d\u0430\u0440\u043d\u0438\u043a.",
+        "input_text": "Комната Тома похожа на свинарник.",
         "target_text": "Tom's room looks like a pigsty.",
         "generated_text": "The room Toma looks like a piggy bank.",
         "gold_label": "Hallucination",
@@ -4466,7 +4552,7 @@
         "p(Hallucination)": "1.00"
     },
     {
-        "input_text": "\u0414\u0443\u043c\u0430\u0435\u0448\u044c, \u043d\u0430\u043c \u0443\u0434\u0430\u0441\u0442\u0441\u044f \u043a\u043e\u0433\u0434\u0430-\u043d\u0438\u0431\u0443\u0434\u044c \u043d\u0430 \u044d\u0442\u043e\u043c \u0437\u0430\u0440\u0430\u0431\u043e\u0442\u0430\u0442\u044c?",
+        "input_text": "Думаешь, нам удастся когда-нибудь на этом заработать?",
         "target_text": "Do you think that we'll ever make money doing this?",
         "generated_text": "What do you do you want to do?",
         "gold_label": "Hallucination",
@@ -4480,7 +4566,7 @@
         "p(Hallucination)": "1.00"
     },
     {
-        "input_text": "\u0422\u044b \u0432\u043f\u043e\u043b\u043d\u0435 \u043c\u043e\u0436\u0435\u0448\u044c \u043f\u043e\u0439\u0442\u0438 \u0441\u043e \u043c\u043d\u043e\u0439.",
+        "input_text": "Ты вполне можешь пойти со мной.",
         "target_text": "You may as well come with me.",
         "generated_text": "You can go with me perfectly.",
         "gold_label": "Hallucination",
@@ -4494,9 +4580,9 @@
         "p(Hallucination)": "1.00"
     },
     {
-        "input_text": "\u0422\u043e\u043c\u0443 \u043d\u0438 \u0434\u043e \u043a\u043e\u0433\u043e \u043d\u0435\u0442 \u0434\u0435\u043b\u0430, \u043a\u0440\u043e\u043c\u0435 \u0441\u0435\u0431\u044f \u0441\u0430\u043c\u043e\u0433\u043e.",
+        "input_text": "Тому ни до кого нет дела, кроме себя самого.",
         "target_text": "Tom doesn't care about anyone but himself.",
-        "generated_text": "That\u2019s why no one has done anything except themselves.",
+        "generated_text": "That’s why no one has done anything except themselves.",
         "gold_label": "Hallucination",
         "gold_p(Hallucination)": 0.8,
         "editor_answer": "Hallucination",
@@ -4508,9 +4594,9 @@
         "p(Hallucination)": "1.00"
     },
     {
-        "input_text": "\u0422\u043e\u043c\u0443 \u0431\u044b\u043b\u043e \u043d\u0435\u043a\u043e\u043c\u0443 \u0440\u0430\u0441\u0441\u043a\u0430\u0437\u0430\u0442\u044c \u0441\u0432\u043e\u044e \u0438\u0441\u0442\u043e\u0440\u0438\u044e.",
+        "input_text": "Тому было некому рассказать свою историю.",
         "target_text": "Tom had no one to tell his story to.",
-        "generated_text": "That\u2019s why someone told their story.",
+        "generated_text": "That’s why someone told their story.",
         "gold_label": "Hallucination",
         "gold_p(Hallucination)": 1.0,
         "editor_answer": "Hallucination",
@@ -4522,7 +4608,7 @@
         "p(Hallucination)": "1.00"
     },
     {
-        "input_text": "\u0425\u043e\u043b\u043e\u0434\u043d\u043e \u043d\u0435 \u043f\u043e \u0441\u0435\u0437\u043e\u043d\u0443.",
+        "input_text": "Холодно не по сезону.",
         "target_text": "It's unseasonably cold.",
         "generated_text": "Cold not during the season.",
         "gold_label": "Hallucination",
@@ -4536,7 +4622,7 @@
         "p(Hallucination)": "1.00"
     },
     {
-        "input_text": "\u041f\u043e\u0436\u0430\u043b\u0443\u0439\u0441\u0442\u0430, \u0432\u0441\u0435 \u0432\u043d\u0438\u043c\u0430\u043d\u0438\u0435. \u0421\u0435\u0439\u0447\u0430\u0441 \u044f \u043f\u0440\u0438\u0441\u0442\u0443\u043f\u0430\u044e \u043a \u043f\u0440\u043e\u0441\u043b\u0443\u0448\u0438\u0432\u0430\u043d\u0438\u044e \u043f\u0430\u0446\u0438\u0435\u043d\u0442\u0430. \u0423\u0431\u0435\u0434\u0438\u0442\u0435\u0441\u044c, \u0447\u0442\u043e \u043e\u0442\u0441\u043b\u0435\u0434\u0438\u043b\u0438 \u043f\u0440\u0430\u0432\u0438\u043b\u044c\u043d\u043e\u0441\u0442\u044c \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u044d\u0442\u043e\u0439 \u043f\u0440\u043e\u0446\u0435\u0434\u0443\u0440\u044b - \u0432\u0430\u043c \u043f\u0440\u0435\u0434\u0441\u0442\u043e\u0438\u0442 \u043e\u0431\u0440\u0430\u0442\u0438\u0442\u044c\u0441\u044f \u043a \u0435\u0451 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u0438\u044e \u0437\u0430\u0432\u0442\u0440\u0430.",
+        "input_text": "Пожалуйста, все внимание. Сейчас я приступаю к прослушиванию пациента. Убедитесь, что отследили правильность выполнения этой процедуры - вам предстоит обратиться к её использованию завтра.",
         "target_text": "If everyone could pay close attention, please. I will now auscultate the patient. Make sure to note the proper procedure because you all will be practicing this tomorrow.",
         "generated_text": "Please pay attention. Now I start listening to the patient. Make sure that you have followed the correct implementation of this procedure - you need to contact its use tomorrow.",
         "gold_label": "Not Hallucination",
@@ -4547,10 +4633,11 @@
         "student_answer": "Hallucination",
         "parttimer_answer": "Hallucination",
         "combined_answer": "Hallucination",
-        "p(Hallucination)": "1.00"
+        "p(Hallucination)": "1.00",
+        "task": "MT"
     },
     {
-        "input_text": "\u0412\u044b \u0432\u0435\u0434\u044c \u043d\u0435 \u0437\u043d\u0430\u043a\u043e\u043c\u044b \u0441 \u0431\u0440\u0430\u0442\u043e\u043c \u0422\u043e\u043c\u0430?",
+        "input_text": "Вы ведь не знакомы с братом Тома?",
         "target_text": "You don't know Tom's brother, do you?",
         "generated_text": "Aren't you familiar with Tom's brother?",
         "gold_label": "Not Hallucination",
@@ -4564,7 +4651,7 @@
         "p(Hallucination)": "0.00"
     },
     {
-        "input_text": "\u0422\u043e\u043c \u043d\u0435\u0440\u0435\u0448\u0438\u0442\u0435\u043b\u0435\u043d.",
+        "input_text": "Том нерешителен.",
         "target_text": "Tom is indecisive.",
         "generated_text": "That's unacceptable.",
         "gold_label": "Hallucination",
@@ -4578,7 +4665,7 @@
         "p(Hallucination)": "1.00"
     },
     {
-        "input_text": "\u0412\u0441\u044f \u0442\u0435\u0440\u0440\u0438\u0442\u043e\u0440\u0438\u044f \u041f\u0430\u043b\u0435\u0441\u0442\u0438\u043d\u044b - \u044d\u0442\u043e \u0437\u0435\u043c\u043b\u044f \u0432\u0441\u0435\u0445 \u043f\u0430\u043b\u0435\u0441\u0442\u0438\u043d\u0446\u0435\u0432.",
+        "input_text": "Вся территория Палестины - это земля всех палестинцев.",
         "target_text": "Palestine, all of it, is the land of all the Palestinians.",
         "generated_text": "The entire territory of Palestine is the land of all Palestinians.",
         "gold_label": "Not Hallucination",
@@ -4592,7 +4679,7 @@
         "p(Hallucination)": "0.00"
     },
     {
-        "input_text": "\u042f \u043c\u043e\u0433\u0443 \u043f\u0440\u043e\u0439\u0442\u0438 \u0437\u0430 \u043a\u0443\u043b\u0438\u0441\u044b?",
+        "input_text": "Я могу пройти за кулисы?",
         "target_text": "Can I come backstage?",
         "generated_text": "Can I go for a walk?",
         "gold_label": "Hallucination",
@@ -4606,7 +4693,7 @@
         "p(Hallucination)": "1.00"
     },
     {
-        "input_text": "\u041e\u043f\u044f\u0442\u044c \u044f \u043f\u0440\u043e\u0441\u043f\u0430\u043b!",
+        "input_text": "Опять я проспал!",
         "target_text": "I've overslept again.",
         "generated_text": "I woke up again!",
         "gold_label": "Hallucination",
@@ -4620,9 +4707,9 @@
         "p(Hallucination)": "0.60"
     },
     {
-        "input_text": "\u0411\u0443\u0434\u0435\u043c \u043d\u0430\u0434\u0435\u044f\u0442\u044c\u0441\u044f, \u0432 \u044d\u0442\u043e\u043c \u0433\u043e\u0434\u0443 \u043d\u0435 \u0441\u043b\u0443\u0447\u0438\u0442\u0441\u044f \u0442\u043e \u0436\u0435 \u0441\u0430\u043c\u043e\u0435.",
+        "input_text": "Будем надеяться, в этом году не случится то же самое.",
         "target_text": "Let's hope the same thing doesn't happen this year.",
-        "generated_text": "Hopefully this year won\u2019t be the same thing.",
+        "generated_text": "Hopefully this year won’t be the same thing.",
         "gold_label": "Not Hallucination",
         "gold_p(Hallucination)": 0.0,
         "editor_answer": "Not Hallucination",
@@ -4634,9 +4721,9 @@
         "p(Hallucination)": "0.00"
     },
     {
-        "input_text": "\u0421\u0440\u043e\u043a \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f \u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c\u0441\u043a\u0438\u0445 \u043f\u0440\u0430\u0432 \u0422\u043e\u043c\u0430 \u0438\u0441\u0442\u0435\u043a.",
+        "input_text": "Срок действия водительских прав Тома истек.",
         "target_text": "Tom's driver's license has expired.",
-        "generated_text": "The duration of Tom\u2019s driving rights expired.",
+        "generated_text": "The duration of Tom’s driving rights expired.",
         "gold_label": "Not Hallucination",
         "gold_p(Hallucination)": 0.4,
         "editor_answer": "Not Hallucination",
@@ -4648,9 +4735,9 @@
         "p(Hallucination)": "0.00"
     },
     {
-        "input_text": "\u00ab\u041d\u043e \u044f \u043d\u0438\u0447\u0435\u0433\u043e \u043d\u0435 \u0434\u0435\u043b\u0430\u043b!\u00bb \u2014 \u00ab\u041e\u043d \u0432\u0440\u0451\u0442!\u00bb",
+        "input_text": "«Но я ничего не делал!» — «Он врёт!»",
         "target_text": "But I didn't do anything! \"He's lying!\"",
-        "generated_text": "\u201cBut I didn\u2019t do anything!\u201d he said.",
+        "generated_text": "“But I didn’t do anything!” he said.",
         "gold_label": "Not Hallucination",
         "gold_p(Hallucination)": 0.2,
         "editor_answer": "Not Hallucination",
@@ -4662,9 +4749,9 @@
         "p(Hallucination)": "0.00"
     },
     {
-        "input_text": "\u041f\u043e\u0445\u043e\u0436\u0435, \u0447\u0442\u043e \u043e\u0433\u0440\u0430\u0431\u043b\u0435\u043d\u0438\u0435 \u0431\u0430\u043d\u043a\u0430 \u0431\u044b\u043b\u043e \u0441\u043f\u043b\u0430\u043d\u0438\u0440\u043e\u0432\u0430\u043d\u043e \u0432\u043f\u043b\u043e\u0442\u044c \u0434\u043e \u043c\u0435\u043b\u043e\u0447\u0435\u0439.",
+        "input_text": "Похоже, что ограбление банка было спланировано вплоть до мелочей.",
         "target_text": "It appears that the bank robbery was planned right down to the last detail.",
-        "generated_text": "It seems that the bank\u2019s budget was designed to go back to the middle.",
+        "generated_text": "It seems that the bank’s budget was designed to go back to the middle.",
         "gold_label": "Hallucination",
         "gold_p(Hallucination)": 0.8,
         "editor_answer": "Hallucination",
@@ -4676,7 +4763,7 @@
         "p(Hallucination)": "1.00"
     },
     {
-        "input_text": "\u0418\u043d\u0442\u0435\u0440\u0435\u0441\u043d\u043e, \u0447\u0442\u043e \u0422\u043e\u043c \u043f\u0440\u0438\u0433\u043e\u0442\u043e\u0432\u0438\u0442 \u043d\u0430 \u0443\u0436\u0438\u043d.",
+        "input_text": "Интересно, что Том приготовит на ужин.",
         "target_text": "I wonder what Tom will make for dinner.",
         "generated_text": "It's interesting Tom's getting ready for dinner.",
         "gold_label": "Hallucination",
@@ -4687,10 +4774,11 @@
         "student_answer": "Not Hallucination",
         "parttimer_answer": "Not Hallucination",
         "combined_answer": "Not Hallucination",
-        "p(Hallucination)": "0.20"
+        "p(Hallucination)": "0.20",
+        "task": "MT"
     },
     {
-        "input_text": "\u042f \u043f\u0440\u043e\u0441\u043b\u0435\u0436\u0443, \u0447\u0442\u043e\u0431\u044b \u044d\u0442\u0438 \u0431\u043e\u0442\u0438\u043d\u043a\u0438 \u043f\u043e\u0447\u0438\u043d\u0438\u043b\u0438 \u0434\u043e \u0437\u0430\u0432\u0442\u0440\u0430.",
+        "input_text": "Я прослежу, чтобы эти ботинки починили до завтра.",
         "target_text": "I'll get these shoes fixed by tomorrow.",
         "generated_text": "I'm gonna make sure these shoes don't die until tomorrow.",
         "gold_label": "Hallucination",
@@ -4704,7 +4792,7 @@
         "p(Hallucination)": "1.00"
     },
     {
-        "input_text": "\u0421\u043d\u0430\u0440\u0443\u0436\u0438 \u0435\u0449\u0451 \u0441\u0432\u0435\u0442\u043b\u043e.",
+        "input_text": "Снаружи ещё светло.",
         "target_text": "It is still light outside.",
         "generated_text": "Get some more light.",
         "gold_label": "Hallucination",
@@ -4718,7 +4806,7 @@
         "p(Hallucination)": "1.00"
     },
     {
-        "input_text": "\u0422\u043e\u043c \u0442\u043e\u043b\u044c\u043a\u043e \u0447\u0442\u043e \u0432\u044b\u0448\u0435\u043b \u0438\u0437 \u0442\u044e\u0440\u044c\u043c\u044b.",
+        "input_text": "Том только что вышел из тюрьмы.",
         "target_text": "Tom just got out of jail.",
         "generated_text": "That's just what came out of prison.",
         "gold_label": "Hallucination",
@@ -4732,7 +4820,7 @@
         "p(Hallucination)": "1.00"
     },
     {
-        "input_text": "\u0417\u0430\u0447\u0435\u043c \u0422\u043e\u043c\u0443 \u0432\u0441\u0451 \u044d\u0442\u043e?",
+        "input_text": "Зачем Тому всё это?",
         "target_text": "Why does Tom need all this?",
         "generated_text": "Why is that all?",
         "gold_label": "Hallucination",
@@ -4746,7 +4834,7 @@
         "p(Hallucination)": "1.00"
     },
     {
-        "input_text": "\u0412\u043b\u0430\u0441\u0442\u044c \u0432 \u0440\u0443\u043a\u0430\u0445 \u0422\u043e\u043c\u0430.",
+        "input_text": "Власть в руках Тома.",
         "target_text": "The power rests with Tom.",
         "generated_text": "Power in Tom's hands.",
         "gold_label": "Not Hallucination",
@@ -4760,7 +4848,7 @@
         "p(Hallucination)": "0.00"
     },
     {
-        "input_text": "\u042f \u0447\u0443\u0432\u0441\u0442\u0432\u0443\u044e \u0441\u0435\u0431\u044f \u0430\u043c\u0451\u0431\u043e\u0439.",
+        "input_text": "Я чувствую себя амёбой.",
         "target_text": "I feel like an amoeba.",
         "generated_text": "I feel good about myself.",
         "gold_label": "Hallucination",
@@ -4774,7 +4862,7 @@
         "p(Hallucination)": "0.80"
     },
     {
-        "input_text": "\u0422\u043e\u043c \u043e\u0447\u0435\u043d\u044c \u0431\u044b\u0441\u0442\u0440\u043e \u0431\u0435\u0436\u0438\u0442.",
+        "input_text": "Том очень быстро бежит.",
         "target_text": "Tom is running very fast.",
         "generated_text": "I don't know it.",
         "gold_label": "Hallucination",
@@ -4788,7 +4876,7 @@
         "p(Hallucination)": "1.00"
     },
     {
-        "input_text": "\u041f\u043e\u0441\u043b\u0435 \u0432\u0441\u0435\u0433\u043e, \u0447\u0442\u043e \u043e\u043d\u0430 \u0441\u0434\u0435\u043b\u0430\u043b\u0430 \u0434\u043b\u044f \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0438, \u0435\u0451 \u0443\u0432\u043e\u043b\u044c\u043d\u0435\u043d\u0438\u0435 \u0441\u0442\u0430\u043b\u043e \u043d\u0430\u0441\u0442\u043e\u044f\u0449\u0435\u0439 \u043f\u043e\u0449\u0435\u0447\u0438\u043d\u043e\u0439.",
+        "input_text": "После всего, что она сделала для компании, её увольнение стало настоящей пощечиной.",
         "target_text": "Her being fired was a real slap in the face after everything she did for the company.",
         "generated_text": "After everything she did for the company, her release became a real bust.",
         "gold_label": "Not Hallucination",
@@ -4799,10 +4887,11 @@
         "student_answer": "Hallucination",
         "parttimer_answer": "Hallucination",
         "combined_answer": "Hallucination",
-        "p(Hallucination)": "1.00"
+        "p(Hallucination)": "1.00",
+        "task": "MT"
     },
     {
-        "input_text": "\u041c\u044b \u0441 \u0422\u043e\u043c\u043e\u043c \u043a\u0430\u043a \u0440\u0430\u0437 \u0432\u0447\u0435\u0440\u0430 \u044d\u0442\u043e \u043e\u0431\u0441\u0443\u0436\u0434\u0430\u043b\u0438.",
+        "input_text": "Мы с Томом как раз вчера это обсуждали.",
         "target_text": "Tom and I were discussing that just yesterday.",
         "generated_text": "We talked to Tom about it once yesterday.",
         "gold_label": "Hallucination",
@@ -4813,10 +4902,11 @@
         "student_answer": "Not Hallucination",
         "parttimer_answer": "Not Hallucination",
         "combined_answer": "Not Hallucination",
-        "p(Hallucination)": "0.00"
+        "p(Hallucination)": "0.00",
+        "task": "MT"
     },
     {
-        "input_text": "\u0412\u044b \u0432\u0435\u0434\u044c \u0441\u044c\u0435\u043b\u0438 \u043d\u0435 \u0432\u0441\u0451 \u043f\u0435\u0447\u0435\u043d\u044c\u0435?",
+        "input_text": "Вы ведь сьели не всё печенье?",
         "target_text": "You haven't eaten all the cookies, have you?",
         "generated_text": "You didn't eat all the liver?",
         "gold_label": "Hallucination",
@@ -4830,7 +4920,7 @@
         "p(Hallucination)": "1.00"
     },
     {
-        "input_text": "\u0422\u044b \u0432 \u043f\u043e\u0441\u043b\u0435\u0434\u043d\u0435\u0435 \u0432\u0440\u0435\u043c\u044f \u0441\u0430\u043c\u0430 \u043d\u0435 \u0441\u0432\u043e\u044f.",
+        "input_text": "Ты в последнее время сама не своя.",
         "target_text": "You haven't been yourself lately.",
         "generated_text": "You're not your own lately.",
         "gold_label": "Not Hallucination",
@@ -4844,7 +4934,7 @@
         "p(Hallucination)": "0.00"
     },
     {
-        "input_text": "\u042f \u043b\u0443\u0447\u0448\u0435 \u0434\u043e\u043c\u043e\u0439 \u043f\u043e\u0439\u0434\u0443.",
+        "input_text": "Я лучше домой пойду.",
         "target_text": "I'd rather go home.",
         "generated_text": "I'm better home tomorrow.",
         "gold_label": "Hallucination",
@@ -4858,7 +4948,7 @@
         "p(Hallucination)": "1.00"
     },
     {
-        "input_text": "\u041a\u0430\u043a \u044d\u0442\u043e \u0432\u043a\u043b\u044e\u0447\u0430\u0435\u0442\u0441\u044f?",
+        "input_text": "Как это включается?",
         "target_text": "How do you turn this thing on?",
         "generated_text": "How does this include?",
         "gold_label": "Hallucination",
@@ -4872,7 +4962,7 @@
         "p(Hallucination)": "1.00"
     },
     {
-        "input_text": "\u0422\u043e\u043c \u0443\u0448\u0451\u043b \u0432\u043e\u0432\u0440\u0435\u043c\u044f.",
+        "input_text": "Том ушёл вовремя.",
         "target_text": "Tom left on time.",
         "generated_text": "Tom's gone in time.",
         "gold_label": "Not Hallucination",
@@ -4886,7 +4976,7 @@
         "p(Hallucination)": "0.20"
     },
     {
-        "input_text": "\u0423\u043c\u0435\u043d\u0438\u0435 \u0441\u043b\u0443\u0448\u0430\u0442\u044c \u0435\u043c\u0443 \u043d\u0435 \u043f\u0440\u0438\u0441\u0443\u0449\u0435.",
+        "input_text": "Умение слушать ему не присуще.",
         "target_text": "Listening is not his forte.",
         "generated_text": "The ability to listen to him is not present.",
         "gold_label": "Hallucination",
@@ -4897,10 +4987,11 @@
         "student_answer": "Not Hallucination",
         "parttimer_answer": "Not Hallucination",
         "combined_answer": "Not Hallucination",
-        "p(Hallucination)": "0.00"
+        "p(Hallucination)": "0.00",
+        "task": "MT"
     },
     {
-        "input_text": "\u0418\u043d\u0441\u0442\u0440\u0443\u043a\u0446\u0438\u0438 \u0431\u044b\u043b\u0438 \u0432\u0441\u0435 \u043d\u0430 \u043a\u0438\u0442\u0430\u0439\u0441\u043a\u043e\u043c.",
+        "input_text": "Инструкции были все на китайском.",
         "target_text": "The instructions were all in Chinese.",
         "generated_text": "It's a lot of people.",
         "gold_label": "Hallucination",
@@ -4914,9 +5005,9 @@
         "p(Hallucination)": "1.00"
     },
     {
-        "input_text": "\u0427\u0435\u0433\u043e \u0431\u044b \u044f \u0442\u043e\u043b\u044c\u043a\u043e \u043d\u0438 \u043e\u0442\u0434\u0430\u043b, \u0447\u0442\u043e\u0431\u044b \u0432\u0435\u0440\u043d\u0443\u0442\u044c \u044d\u0442\u0438 \u0433\u043e\u0434\u044b!",
+        "input_text": "Чего бы я только ни отдал, чтобы вернуть эти годы!",
         "target_text": "And what wouldn't I give for these years to come back.",
-        "generated_text": "I don\u2019t want to give anything back to these years!",
+        "generated_text": "I don’t want to give anything back to these years!",
         "gold_label": "Hallucination",
         "gold_p(Hallucination)": 0.8,
         "editor_answer": "Hallucination",
@@ -4928,8 +5019,8 @@
         "p(Hallucination)": "1.00"
     },
     {
-        "input_text": "\u0420\u0443\u0441\u0441\u043a\u043e\u0435 \u0441\u043b\u043e\u0432\u043e \"\u044f\u0440\u043c\u0430\u0440\u043a\u0430\" \u0438\u043c\u0435\u0435\u0442 \u043d\u0438\u0434\u0435\u0440\u043b\u0430\u043d\u0434\u0441\u043a\u043e\u0435 \u043f\u0440\u043e\u0438\u0441\u0445\u043e\u0436\u0434\u0435\u043d\u0438\u0435.",
-        "target_text": "The Russian word for \"fair\", namely \"\u044f\u0440\u043c\u0430\u0440\u043a\u0430\", is Dutch in origin.",
+        "input_text": "Русское слово \"ярмарка\" имеет нидерландское происхождение.",
+        "target_text": "The Russian word for \"fair\", namely \"ярмарка\", is Dutch in origin.",
         "generated_text": "The Russian word \"yardmark\" has Dutch origin.",
         "gold_label": "Hallucination",
         "gold_p(Hallucination)": 0.6,
@@ -4942,7 +5033,7 @@
         "p(Hallucination)": "1.00"
     },
     {
-        "input_text": "\u0422\u043e\u043c \u043f\u0440\u043e\u0432\u0435\u0440\u0438\u043b \u0441\u043f\u0438\u0441\u043e\u043a.",
+        "input_text": "Том проверил список.",
         "target_text": "Tom checked the list.",
         "generated_text": "That's what I've done.",
         "gold_label": "Hallucination",
@@ -4956,7 +5047,7 @@
         "p(Hallucination)": "1.00"
     },
     {
-        "input_text": "\u0422\u044b \u043e\u0431\u0440\u0430\u0442\u0438\u043b\u0441\u044f \u0432 \u0445\u0440\u0438\u0441\u0442\u0438\u0430\u043d\u0441\u0442\u0432\u043e.",
+        "input_text": "Ты обратился в христианство.",
         "target_text": "You converted to Christianity.",
         "generated_text": "It's a lot of people.",
         "gold_label": "Hallucination",
@@ -4970,7 +5061,7 @@
         "p(Hallucination)": "1.00"
     },
     {
-        "input_text": "\u042f \u0437\u043d\u0430\u044e, \u0447\u0442\u043e \u0442\u044b \u044d\u0442\u043e \u043d\u0435 \u0441\u043f\u0435\u0446\u0438\u0430\u043b\u044c\u043d\u043e.",
+        "input_text": "Я знаю, что ты это не специально.",
         "target_text": "I know that it wasn't intentional.",
         "generated_text": "I know you're not special.",
         "gold_label": "Hallucination",
@@ -4984,7 +5075,7 @@
         "p(Hallucination)": "1.00"
     },
     {
-        "input_text": "\u0418\u0437-\u0437\u0430 \u043d\u0438\u0445 \u0422\u043e\u043c\u0443 \u043f\u0440\u0438\u0448\u043b\u043e\u0441\u044c \u043f\u043e\u043c\u0435\u043d\u044f\u0442\u044c \u0441\u0432\u043e\u0451 \u043c\u043d\u0435\u043d\u0438\u0435.",
+        "input_text": "Из-за них Тому пришлось поменять своё мнение.",
         "target_text": "They made Tom change his mind.",
         "generated_text": "Because of this, he had to change his mind.",
         "gold_label": "Hallucination",
@@ -4995,10 +5086,11 @@
         "student_answer": "Not Hallucination",
         "parttimer_answer": "Not Hallucination",
         "combined_answer": "Not Hallucination",
-        "p(Hallucination)": "0.00"
+        "p(Hallucination)": "0.00",
+        "task": "MT"
     },
     {
-        "input_text": "\u041a\u043e\u0433\u0434\u0430 \u044f \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043b\u0441\u044f \u043a\u0441\u0435\u0440\u043e\u043a\u0441\u043e\u043c, \u043e\u043d \u0441\u043b\u043e\u043c\u0430\u043b\u0441\u044f.",
+        "input_text": "Когда я пользовался ксероксом, он сломался.",
         "target_text": "I was using the photocopier when it broke.",
         "generated_text": "When I used xerox, it broke down.",
         "gold_label": "Hallucination",
@@ -5009,10 +5101,11 @@
         "student_answer": "Not Hallucination",
         "parttimer_answer": "Not Hallucination",
         "combined_answer": "Not Hallucination",
-        "p(Hallucination)": "0.00"
+        "p(Hallucination)": "0.00",
+        "task": "MT"
     },
     {
-        "input_text": "\u0414\u0430 \u0433\u0434\u0435 \u0443\u0433\u043e\u0434\u043d\u043e \u043f\u043e\u043b\u043e\u0436\u0438.",
+        "input_text": "Да где угодно положи.",
         "target_text": "Just put it anywhere.",
         "generated_text": "Yeah, wherever you go.",
         "gold_label": "Hallucination",
@@ -5026,7 +5119,7 @@
         "p(Hallucination)": "1.00"
     },
     {
-        "input_text": "\u042f\u0434\u0440\u0451\u043d \u0431\u0430\u0442\u043e\u043d!",
+        "input_text": "Ядрён батон!",
         "target_text": "Blimey!",
         "generated_text": "Nuclear Baton!",
         "gold_label": "Hallucination",
@@ -5040,7 +5133,7 @@
         "p(Hallucination)": "1.00"
     },
     {
-        "input_text": "\u042d\u0442\u043e \u0431\u044b\u043b\u043e \u0441\u043b\u0438\u0448\u043a\u043e\u043c \u043f\u0440\u043e\u0441\u0442\u043e?",
+        "input_text": "Это было слишком просто?",
         "target_text": "Was that too easy?",
         "generated_text": "What are you doing?",
         "gold_label": "Hallucination",
@@ -5054,7 +5147,7 @@
         "p(Hallucination)": "1.00"
     },
     {
-        "input_text": "\u041c\u044b \u0438\u0437\u0432\u0438\u043d\u0438\u043b\u0438\u0441\u044c \u043f\u0435\u0440\u0435\u0434 \u0422\u043e\u043c\u043e\u043c.",
+        "input_text": "Мы извинились перед Томом.",
         "target_text": "We apologized to Tom.",
         "generated_text": "It's a lot of people.",
         "gold_label": "Hallucination",
@@ -5068,7 +5161,7 @@
         "p(Hallucination)": "1.00"
     },
     {
-        "input_text": "\u041a\u0430\u043a\u0430\u044f \u0438\u0437 \u043d\u0438\u0445 \u0442\u044b?",
+        "input_text": "Какая из них ты?",
         "target_text": "Which one is you?",
         "generated_text": "Which one of them are you?",
         "gold_label": "Not Hallucination",
@@ -5082,7 +5175,7 @@
         "p(Hallucination)": "0.00"
     },
     {
-        "input_text": "\u0422\u044b \u0431\u044b \u043d\u0430 \u043c\u043e\u0451\u043c \u043c\u0435\u0441\u0442\u0435 \u043f\u043e\u0441\u0442\u0443\u043f\u0438\u043b \u0442\u0430\u043a \u0436\u0435.",
+        "input_text": "Ты бы на моём месте поступил так же.",
         "target_text": "You would've done the same thing if you were me.",
         "generated_text": "You would have done the same in my place.",
         "gold_label": "Not Hallucination",
@@ -5096,7 +5189,7 @@
         "p(Hallucination)": "0.00"
     },
     {
-        "input_text": "\u042f \u0442\u0435\u0431\u044f \u043f\u0440\u0438\u043a\u0440\u044b\u043b.",
+        "input_text": "Я тебя прикрыл.",
         "target_text": "I've got you covered.",
         "generated_text": "I covered you.",
         "gold_label": "Not Hallucination",
@@ -5110,7 +5203,7 @@
         "p(Hallucination)": "0.00"
     },
     {
-        "input_text": "\u042f \u044d\u0442\u043e\u0442 \u0442\u0440\u0435\u043a \u043d\u0430 \u0440\u0435\u043f\u0438\u0442 \u043f\u043e\u0441\u0442\u0430\u0432\u0438\u043b.",
+        "input_text": "Я этот трек на репит поставил.",
         "target_text": "I put this track on repeat.",
         "generated_text": "I put this track on the shelf.",
         "gold_label": "Hallucination",
@@ -5124,7 +5217,7 @@
         "p(Hallucination)": "1.00"
     },
     {
-        "input_text": "\u0414\u0430\u0432\u0430\u0439\u0442\u0435 \u043d\u0435 \u0431\u0443\u0434\u0435\u043c \u0441\u043f\u0435\u0448\u0438\u0442\u044c.",
+        "input_text": "Давайте не будем спешить.",
         "target_text": "Let's take our time.",
         "generated_text": "Let's not hurry.",
         "gold_label": "Not Hallucination",
@@ -5138,7 +5231,7 @@
         "p(Hallucination)": "0.00"
     },
     {
-        "input_text": "\u0422\u044b \u043f\u043e\u0442\u043e\u043c \u0435\u0449\u0451 \u043f\u0440\u0438\u0434\u0451\u0448\u044c?",
+        "input_text": "Ты потом ещё придёшь?",
         "target_text": "Will you come back later?",
         "generated_text": "Then you'll come again?",
         "gold_label": "Not Hallucination",
@@ -5152,7 +5245,7 @@
         "p(Hallucination)": "0.00"
     },
     {
-        "input_text": "\u041f\u043e\u0441\u043b\u0435 \u0442\u043e\u0433\u043e \u0422\u043e\u043c \u043d\u0438\u043a\u043e\u0433\u0434\u0430 \u043d\u0435 \u0432\u0438\u0434\u0435\u043b \u041c\u044d\u0440\u0438.",
+        "input_text": "После того Том никогда не видел Мэри.",
         "target_text": "Tom never saw Mary after that.",
         "generated_text": "Then Tom never saw Mary.",
         "gold_label": "Not Hallucination",
@@ -5166,7 +5259,7 @@
         "p(Hallucination)": "0.00"
     },
     {
-        "input_text": "\u0421\u043e\u0431\u0430\u043a\u0443 \u043f\u043e\u043a\u043e\u0440\u043c\u0438\u043b\u0438?",
+        "input_text": "Собаку покормили?",
         "target_text": "Has anyone fed the dog?",
         "generated_text": "Did they feed the dog?",
         "gold_label": "Not Hallucination",
@@ -5180,7 +5273,7 @@
         "p(Hallucination)": "0.00"
     },
     {
-        "input_text": "\u042f \u043d\u0438\u0447\u0435\u043c \u043d\u0435 \u043c\u043e\u0433\u0443 \u043f\u043e\u043c\u043e\u0447\u044c \u0422\u043e\u043c\u0443.",
+        "input_text": "Я ничем не могу помочь Тому.",
         "target_text": "There's nothing I can do to help Tom.",
         "generated_text": "I can't help Tom.",
         "gold_label": "Not Hallucination",
@@ -5194,7 +5287,7 @@
         "p(Hallucination)": "0.00"
     },
     {
-        "input_text": "\u041d\u0430\u043c \u043f\u043e\u0439\u0442\u0438?",
+        "input_text": "Нам пойти?",
         "target_text": "Should we go?",
         "generated_text": "Let's go?",
         "gold_label": "Not Hallucination",
@@ -5208,7 +5301,7 @@
         "p(Hallucination)": "0.00"
     },
     {
-        "input_text": "\u042f \u043e\u0431\u044b\u0447\u043d\u043e \u043f\u0440\u0438\u0445\u043e\u0436\u0443 \u043d\u0430 \u0440\u0430\u0431\u043e\u0442\u0443 \u043f\u0435\u0440\u0432\u044b\u043c.",
+        "input_text": "Я обычно прихожу на работу первым.",
         "target_text": "I'm usually the first one to get to work.",
         "generated_text": "I usually go to work first.",
         "gold_label": "Hallucination",
@@ -5219,10 +5312,11 @@
         "student_answer": "Not Hallucination",
         "parttimer_answer": "Not Hallucination",
         "combined_answer": "Not Hallucination",
-        "p(Hallucination)": "0.00"
+        "p(Hallucination)": "0.00",
+        "task": "MT"
     },
     {
-        "input_text": "\u0416\u0430\u043b\u044c, \u0447\u0442\u043e \u044f \u043d\u0435 \u0442\u0430\u043a\u043e\u0439 \u0445\u0440\u0430\u0431\u0440\u044b\u0439, \u043a\u0430\u043a \u0422\u043e\u043c.",
+        "input_text": "Жаль, что я не такой храбрый, как Том.",
         "target_text": "I wish I were as brave as Tom is.",
         "generated_text": "I'm sorry I'm not as brave as Tom.",
         "gold_label": "Not Hallucination",
@@ -5236,7 +5330,7 @@
         "p(Hallucination)": "0.00"
     },
     {
-        "input_text": "\u041b\u044e\u0434\u0438 \u0441\u0432\u043e\u0431\u043e\u0434\u043d\u044b.",
+        "input_text": "Люди свободны.",
         "target_text": "The people are free.",
         "generated_text": "People are free.",
         "gold_label": "Not Hallucination",
@@ -5250,7 +5344,7 @@
         "p(Hallucination)": "0.00"
     },
     {
-        "input_text": "\u041d\u0430 \u043d\u0430\u0441 \u043c\u043d\u043e\u0433\u0438\u0435 \u0440\u0430\u0441\u0441\u0447\u0438\u0442\u044b\u0432\u0430\u044e\u0442.",
+        "input_text": "На нас многие рассчитывают.",
         "target_text": "Many people rely on us.",
         "generated_text": "Many expect us.",
         "gold_label": "Hallucination",
@@ -5261,10 +5355,11 @@
         "student_answer": "Not Hallucination",
         "parttimer_answer": "Not Hallucination",
         "combined_answer": "Not Hallucination",
-        "p(Hallucination)": "0.00"
+        "p(Hallucination)": "0.00",
+        "task": "MT"
     },
     {
-        "input_text": "\u0422\u043e\u043c \u0443 \u043c\u0435\u043d\u044f \u0441\u0430\u043c\u044b\u0439 \u043c\u043b\u0430\u0434\u0448\u0438\u0439.",
+        "input_text": "Том у меня самый младший.",
         "target_text": "Tom is my youngest.",
         "generated_text": "I have the youngest Tom.",
         "gold_label": "Not Hallucination",
@@ -5278,7 +5373,7 @@
         "p(Hallucination)": "0.00"
     },
     {
-        "input_text": "\u0422\u043e\u043c \u0432\u044b\u0443\u0447\u0438\u043b \u043d\u043e\u0432\u043e\u0435 \u0441\u043b\u043e\u0432\u043e.",
+        "input_text": "Том выучил новое слово.",
         "target_text": "Tom learned a new word.",
         "generated_text": "I found a new book.",
         "gold_label": "Hallucination",
@@ -5292,7 +5387,7 @@
         "p(Hallucination)": "1.00"
     },
     {
-        "input_text": "\u0422\u0432\u043e\u0438 \u0441\u044b\u043d\u043e\u0432\u044c\u044f \u0434\u043e\u0432\u043e\u043b\u044c\u043d\u043e \u0441\u0438\u043c\u043f\u0430\u0442\u0438\u0447\u043d\u044b\u0435.",
+        "input_text": "Твои сыновья довольно симпатичные.",
         "target_text": "Your sons are quite handsome.",
         "generated_text": "Your children are pretty nice to you.",
         "gold_label": "Hallucination",
@@ -5306,7 +5401,7 @@
         "p(Hallucination)": "1.00"
     },
     {
-        "input_text": "\u042f \u043f\u043e\u043b\u043e\u0432\u0438\u043d\u0443 \u043d\u043e\u0447\u0438 \u043d\u0435 \u0441\u043f\u0430\u043b\u0430.",
+        "input_text": "Я половину ночи не спала.",
         "target_text": "I was up half the night.",
         "generated_text": "I didn't sleep for half a night.",
         "gold_label": "Not Hallucination",
@@ -5320,7 +5415,7 @@
         "p(Hallucination)": "0.00"
     },
     {
-        "input_text": "\u0412 \u0433\u043e\u0441\u0442\u0438\u043d\u043e\u0439 \u0431\u044b\u043b \u043e\u0433\u0440\u043e\u043c\u043d\u044b\u0439 \u043f\u0430\u0443\u043a.",
+        "input_text": "В гостиной был огромный паук.",
         "target_text": "In the living room there was a huge spider.",
         "generated_text": "There was a huge spider in the hotel.",
         "gold_label": "Hallucination",
@@ -5334,7 +5429,7 @@
         "p(Hallucination)": "1.00"
     },
     {
-        "input_text": "\u041a\u0430\u043a \u043d\u0430\u043c \u043f\u043e\u043f\u0430\u0441\u0442\u044c \u0432 \u043a\u043e\u043c\u0430\u043d\u0434\u0443?",
+        "input_text": "Как нам попасть в команду?",
         "target_text": "How can we join the team?",
         "generated_text": "How do we get to the team?",
         "gold_label": "Not Hallucination",
@@ -5348,7 +5443,7 @@
         "p(Hallucination)": "0.00"
     },
     {
-        "input_text": "\u041a\u043e\u0433\u0434\u0430 \u0443 \u043c\u0435\u043d\u044f \u043f\u043b\u043e\u0445\u043e\u0435 \u043d\u0430\u0441\u0442\u0440\u043e\u0435\u043d\u0438\u0435, \u044f \u043b\u044e\u0431\u043b\u044e \u043f\u043e\u0434\u0443\u043c\u0430\u0442\u044c \u043e \u0433\u043e\u0440\u043d\u043e\u0441\u0442\u0430\u044f\u0445, \u0447\u0442\u043e\u0431\u044b \u043f\u0440\u0438\u043e\u0431\u043e\u0434\u0440\u0438\u0442\u044c\u0441\u044f.",
+        "input_text": "Когда у меня плохое настроение, я люблю подумать о горностаях, чтобы приободриться.",
         "target_text": "When I'm in a bad mood, I like to think of stoats to cheer myself up.",
         "generated_text": "When I have a bad mood, I like to think about pride in order to get bored.",
         "gold_label": "Hallucination",
@@ -5362,7 +5457,7 @@
         "p(Hallucination)": "1.00"
     },
     {
-        "input_text": "\u0421\u0435\u0439\u0447\u0430\u0441 \u044f \u043d\u0435 \u043c\u043e\u0433\u0443 \u0441\u0435\u0431\u0435 \u044d\u0442\u043e\u0433\u043e \u043f\u043e\u0437\u0432\u043e\u043b\u0438\u0442\u044c.",
+        "input_text": "Сейчас я не могу себе этого позволить.",
         "target_text": "I can't afford that right now.",
         "generated_text": "Now I can't afford it.",
         "gold_label": "Not Hallucination",
@@ -5376,7 +5471,7 @@
         "p(Hallucination)": "0.00"
     },
     {
-        "input_text": "\u041f\u0435\u0440\u0435\u0434 \u0442\u0435\u043c \u043a\u0430\u043a \u0432\u044b\u0439\u0442\u0438 \u0438\u0437 \u0434\u043e\u043c\u0430, \u044f \u0432\u0441\u0435\u0433\u0434\u0430 \u0437\u0430\u0432\u0442\u0440\u0430\u043a\u0430\u044e.",
+        "input_text": "Перед тем как выйти из дома, я всегда завтракаю.",
         "target_text": "I always have breakfast before leaving home.",
         "generated_text": "Before I get out of the house, I always have breakfast.",
         "gold_label": "Not Hallucination",
@@ -5390,7 +5485,7 @@
         "p(Hallucination)": "0.00"
     },
     {
-        "input_text": "\u041f\u043e\u0436\u0430\u043b\u0443\u0439\u0441\u0442\u0430, \u043f\u0440\u043e\u0441\u0442\u043e \u0434\u0435\u043b\u0430\u0439\u0442\u0435 \u0432\u0441\u0451, \u043a\u0430\u043a \u044f.",
+        "input_text": "Пожалуйста, просто делайте всё, как я.",
         "target_text": "Please just do everything I do.",
         "generated_text": "Please, just do everything like me.",
         "gold_label": "Not Hallucination",
@@ -5404,7 +5499,7 @@
         "p(Hallucination)": "0.00"
     },
     {
-        "input_text": "\u041e\u043d\u0438 \u043f\u0440\u0438\u0432\u0435\u0442\u0441\u0442\u0432\u043e\u0432\u0430\u043b\u0438 \u043d\u0430\u0441 \u0441 \u0440\u0430\u0441\u043f\u0440\u043e\u0441\u0442\u0435\u0440\u0442\u044b\u043c\u0438 \u043e\u0431\u044c\u044f\u0442\u0438\u044f\u043c\u0438.",
+        "input_text": "Они приветствовали нас с распростертыми обьятиями.",
         "target_text": "They welcomed us with open arms.",
         "generated_text": "They welcomed us with disillusioned hugs.",
         "gold_label": "Hallucination",
@@ -5418,7 +5513,7 @@
         "p(Hallucination)": "1.00"
     },
     {
-        "input_text": "\u042f \u043f\u043e\u0441\u0442\u043e\u044f\u043d\u043d\u043e \u0432\u0440\u0430\u043b \u0436\u0435\u043d\u0435.",
+        "input_text": "Я постоянно врал жене.",
         "target_text": "I lied constantly to my wife.",
         "generated_text": "I've always been mad at my wife.",
         "gold_label": "Hallucination",
@@ -5432,7 +5527,7 @@
         "p(Hallucination)": "1.00"
     },
     {
-        "input_text": "\u041c\u044b \u0435\u0449\u0451 \u0434\u0430\u043b\u0435\u043a\u043e \u043e\u0442 \u0446\u0435\u043b\u0438.",
+        "input_text": "Мы ещё далеко от цели.",
         "target_text": "Our destination is still far away.",
         "generated_text": "We're still far from our goal.",
         "gold_label": "Not Hallucination",
@@ -5446,7 +5541,7 @@
         "p(Hallucination)": "0.00"
     },
     {
-        "input_text": "\u0421\u043e\u0431\u0430\u043a\u0430 \u0442\u0432\u043e\u044f.",
+        "input_text": "Собака твоя.",
         "target_text": "The dog is yours.",
         "generated_text": "Your dog.",
         "gold_label": "Not Hallucination",
@@ -5460,7 +5555,7 @@
         "p(Hallucination)": "0.00"
     },
     {
-        "input_text": "\u042f \u043f\u043e\u043b\u0443\u0447\u0430\u044e \u0434\u043e\u0441\u0442\u0430\u0442\u043e\u0447\u043d\u043e.",
+        "input_text": "Я получаю достаточно.",
         "target_text": "I'm paid enough.",
         "generated_text": "I get enough.",
         "gold_label": "Hallucination",
@@ -5471,10 +5566,11 @@
         "student_answer": "Not Hallucination",
         "parttimer_answer": "Not Hallucination",
         "combined_answer": "Not Hallucination",
-        "p(Hallucination)": "0.00"
+        "p(Hallucination)": "0.00",
+        "task": "MT"
     },
     {
-        "input_text": "\u041d\u0430\u043c \u043f\u0440\u0438\u0434\u0435\u0442\u0441\u044f \u0431\u0430\u043b\u043e\u0432\u0430\u0442\u044c \u041c\u044d\u0440\u0438, \u043f\u043e\u043a\u0430 \u043e\u043d\u0430 \u043d\u0435 \u043f\u043e\u043f\u0440\u0430\u0432\u0438\u0442\u0441\u044f.",
+        "input_text": "Нам придется баловать Мэри, пока она не поправится.",
         "target_text": "We must baby Mary until she gets well again.",
         "generated_text": "We'll have to beat Mary until she gets right.",
         "gold_label": "Hallucination",
@@ -5488,9 +5584,9 @@
         "p(Hallucination)": "1.00"
     },
     {
-        "input_text": "\u041d\u0435 \u043f\u043e\u0437\u0432\u043e\u043b\u044f\u0439 \u0434\u0435\u0442\u044f\u043c \u0438\u0433\u0440\u0430\u0442\u044c \u043e\u043a\u043e\u043b\u043e \u043f\u0440\u0443\u0434\u0430.",
+        "input_text": "Не позволяй детям играть около пруда.",
         "target_text": "Don't let the children go near the pond.",
-        "generated_text": "Don\u2019t let kids play around.",
+        "generated_text": "Don’t let kids play around.",
         "gold_label": "Hallucination",
         "gold_p(Hallucination)": 0.8,
         "editor_answer": "Not Hallucination",
@@ -5499,10 +5595,11 @@
         "student_answer": "Not Hallucination",
         "parttimer_answer": "Hallucination",
         "combined_answer": "Not Hallucination",
-        "p(Hallucination)": "0.40"
+        "p(Hallucination)": "0.40",
+        "task": "MT"
     },
     {
-        "input_text": "\u041c\u043d\u0435 \u043f\u043e\u0447\u0442\u0438 \u043d\u0435\u0447\u0435\u0433\u043e \u0434\u0435\u043b\u0430\u0442\u044c.",
+        "input_text": "Мне почти нечего делать.",
         "target_text": "I have almost nothing to do.",
         "generated_text": "There's almost nothing I can do.",
         "gold_label": "Not Hallucination",
@@ -5516,7 +5613,7 @@
         "p(Hallucination)": "0.00"
     },
     {
-        "input_text": "\u042f \u043c\u043e\u0433\u0443 \u043a\u043e\u0441\u043d\u0443\u0442\u044c\u0441\u044f \u043b\u0430\u0434\u043e\u043d\u044f\u043c\u0438 \u043f\u043e\u043b\u0430, \u043d\u0435 \u0441\u0433\u0438\u0431\u0430\u044f \u043a\u043e\u043b\u0435\u043d\u0435\u0439.",
+        "input_text": "Я могу коснуться ладонями пола, не сгибая коленей.",
         "target_text": "I can place the palms of my hands on the floor without bending my knees.",
         "generated_text": "I can touch the elbows of sex without bending my knees.",
         "gold_label": "Hallucination",
@@ -5530,7 +5627,7 @@
         "p(Hallucination)": "1.00"
     },
     {
-        "input_text": "\u0422\u043e\u043c \u043f\u044b\u0442\u0430\u0435\u0442\u0441\u044f \u0437\u0430\u0440\u0430\u0431\u043e\u0442\u0430\u0442\u044c \u043d\u0430 \u043d\u043e\u0432\u0443\u044e \u0442\u0440\u0443\u0431\u0443.",
+        "input_text": "Том пытается заработать на новую трубу.",
         "target_text": "Tom is trying to earn enough money to buy himself a new trumpet.",
         "generated_text": "Tom's trying to make money on a new pipe.",
         "gold_label": "Hallucination",
@@ -5541,10 +5638,11 @@
         "student_answer": "Hallucination",
         "parttimer_answer": "Not Hallucination",
         "combined_answer": "Not Hallucination",
-        "p(Hallucination)": "0.20"
+        "p(Hallucination)": "0.20",
+        "task": "MT"
     },
     {
-        "input_text": "\u0421\u0443\u043f \u0435\u0449\u0451 \u043d\u0435 \u043e\u0441\u0442\u044b\u043b.",
+        "input_text": "Суп ещё не остыл.",
         "target_text": "The soup is still hot.",
         "generated_text": "The soup hasn't stayed yet.",
         "gold_label": "Hallucination",
@@ -5558,7 +5656,7 @@
         "p(Hallucination)": "1.00"
     },
     {
-        "input_text": "\u0420\u0435\u0448\u0435\u043d\u0438\u0435 \u0442\u0430\u043a\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0445 \u0443\u043f\u0440\u0430\u0436\u043d\u0435\u043d\u0438\u0439, \u043f\u043e\u043d\u0438\u043c\u0430\u043d\u0438\u0435 \u0441\u043b\u043e\u0436\u043d\u043e\u0439 \u043a\u043e\u043d\u0446\u043e\u0432\u043a\u0438, \u043d\u0430\u0431\u043b\u044e\u0434\u0435\u043d\u0438\u0435 \u0437\u0430 \u0436\u0438\u0432\u044b\u043c \u043c\u0430\u0442\u0447\u0435\u043c \u0438 \u043f\u043e\u043f\u044b\u0442\u043a\u0438 \u00ab\u0443\u0433\u0430\u0434\u0430\u0442\u044c\u00bb \u0445\u043e\u0434\u044b, \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u0431\u0443\u0434\u0443\u0442 \u0441\u044b\u0433\u0440\u0430\u043d\u044b. \u0412\u0441\u0451 \u044d\u0442\u043e \u0432\u0435\u0441\u0435\u043b\u043e.",
+        "input_text": "Решение тактических упражнений, понимание сложной концовки, наблюдение за живым матчем и попытки «угадать» ходы, которые будут сыграны. Всё это весело.",
         "target_text": "Solving a tactical exercise, understanding a difficult ending, following a live match and trying to \"guess\" the moves that will be played. All of this is fun.",
         "generated_text": "The solution of tactical exercises, understanding complex endings, watching the live match and trying to \"imagine\" the steps that will be played. All this fun.",
         "gold_label": "Not Hallucination",
@@ -5572,7 +5670,7 @@
         "p(Hallucination)": "0.00"
     },
     {
-        "input_text": "\u042f \u043f\u0440\u0438\u043d\u0451\u0441 \u044d\u0442\u043e \u0442\u0435\u0431\u0435.",
+        "input_text": "Я принёс это тебе.",
         "target_text": "I brought this for you.",
         "generated_text": "I'll bring it to you.",
         "gold_label": "Hallucination",
@@ -5586,8 +5684,8 @@
         "p(Hallucination)": "1.00"
     },
     {
-        "input_text": "\u0420\u0443\u0438 \u041b\u043e\u043f\u0435\u0441 \u0434\u0435 \u0421\u0435\u0433\u0443\u0440\u0430, \u0441\u0432\u044f\u0449\u0435\u043d\u043d\u0438\u043a \u0438 \u0438\u0437\u0432\u0435\u0441\u0442\u043d\u044b\u0439 \u0438\u0441\u043f\u0430\u043d\u0441\u043a\u0438\u0439 \u0448\u0430\u0445\u043c\u0430\u0442\u0438\u0441\u0442 XVI \u0432\u0435\u043a\u0430, \u043d\u0430\u043f\u0438\u0441\u0430\u043b \u043a\u043d\u0438\u0433\u0443 \u043d\u0430 150 \u0441\u0442\u0440\u0430\u043d\u0438\u0446 \u043f\u043e\u0434 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u0435\u043c Libro del Ajedrez, \u043f\u043e\u0441\u0432\u044f\u0449\u0435\u043d\u043d\u0443\u044e \u0438\u0441\u0447\u0435\u0440\u043f\u044b\u0432\u0430\u044e\u0449\u0438\u043c \u0438\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u044f\u043c, \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u043e\u043d \u043f\u0440\u043e\u0432\u0435\u043b \u0432 \u0434\u0435\u0431\u044e\u0442\u0435 (1.e4 e5 2.\u2658f3 \u2658c6 3 .\u2657b5), \u043d\u0430\u0437\u0432\u0430\u043d\u043d\u044b\u0439 \u0432 \u0435\u0433\u043e \u0447\u0435\u0441\u0442\u044c.",
-        "target_text": "Ruy L\u00f3pez de Segura, a priest and a famous Spanish chess player of the 16th century, wrote a book of 150 pages, called Libro del Ajedrez, about exhaustive studies he made on the opening (1.e4 e5 2.\u2658f3 \u2658c6 3.\u2657b5) that is named after him.",
+        "input_text": "Руи Лопес де Сегура, священник и известный испанский шахматист XVI века, написал книгу на 150 страниц под названием Libro del Ajedrez, посвященную исчерпывающим исследованиям, которые он провел в дебюте (1.e4 e5 2.♘f3 ♘c6 3 .♗b5), названный в его честь.",
+        "target_text": "Ruy López de Segura, a priest and a famous Spanish chess player of the 16th century, wrote a book of 150 pages, called Libro del Ajedrez, about exhaustive studies he made on the opening (1.e4 e5 2.♘f3 ♘c6 3.♗b5) that is named after him.",
         "generated_text": "Rui Lopez de Segura, priest and famous Spanish chess player of the 16th century, wrote a 150-page book called Libro del Ajedrez dedicated to the exhaustive research he conducted in his debut (1.e4 e5 2.f3 c6 3.b5), named in his honor.",
         "gold_label": "Not Hallucination",
         "gold_p(Hallucination)": 0.4,
@@ -5600,7 +5698,7 @@
         "p(Hallucination)": "0.00"
     },
     {
-        "input_text": "\u0422\u043e\u043c\u0443 \u043d\u0430\u0434\u043e \u0431\u044b\u043b\u043e \u0442\u0443\u0434\u0430 \u043f\u043e\u0435\u0445\u0430\u0442\u044c.",
+        "input_text": "Тому надо было туда поехать.",
         "target_text": "Tom had to go there.",
         "generated_text": "That's why we had to go there.",
         "gold_label": "Hallucination",
@@ -5614,7 +5712,7 @@
         "p(Hallucination)": "1.00"
     },
     {
-        "input_text": "\u0412 \u044d\u0442\u043e\u043c \u0443\u0436\u0435 \u043d\u0435\u0442 \u043e\u0441\u043e\u0431\u043e\u0439 \u043d\u0435\u043e\u0431\u0445\u043e\u0434\u0438\u043c\u043e\u0441\u0442\u0438.",
+        "input_text": "В этом уже нет особой необходимости.",
         "target_text": "That isn't really necessary anymore.",
         "generated_text": "There is no need for this anymore.",
         "gold_label": "Not Hallucination",
@@ -5628,7 +5726,7 @@
         "p(Hallucination)": "0.00"
     },
     {
-        "input_text": "\u0422\u043e\u043c \u0441\u043e\u0432\u0440\u0430\u043b.",
+        "input_text": "Том соврал.",
         "target_text": "Tom lied.",
         "generated_text": "Tom agreed.",
         "gold_label": "Hallucination",
@@ -5642,7 +5740,7 @@
         "p(Hallucination)": "1.00"
     },
     {
-        "input_text": "\u0422\u044b \u043d\u0435 \u043e\u0431\u0440\u0430\u0449\u0430\u0435\u0448\u044c \u043d\u0430 \u043c\u0435\u043d\u044f \u0432\u043d\u0438\u043c\u0430\u043d\u0438\u044f.",
+        "input_text": "Ты не обращаешь на меня внимания.",
         "target_text": "You're ignoring me.",
         "generated_text": "You don't pay attention to me.",
         "gold_label": "Not Hallucination",
@@ -5656,7 +5754,7 @@
         "p(Hallucination)": "0.00"
     },
     {
-        "input_text": "\u0412\u0430\u0441 \u0432 \u043f\u043e\u0441\u043b\u0435\u0434\u043d\u0435\u0435 \u0432\u0440\u0435\u043c\u044f \u0441\u043e\u0432\u0441\u0435\u043c \u043d\u0435 \u0432\u0438\u0434\u043d\u043e.",
+        "input_text": "Вас в последнее время совсем не видно.",
         "target_text": "You've been absent a lot lately.",
         "generated_text": "You haven't seen anything lately.",
         "gold_label": "Hallucination",
@@ -5670,7 +5768,7 @@
         "p(Hallucination)": "1.00"
     },
     {
-        "input_text": "\u041e\u043d\u0430 \u0441\u043d\u044f\u043b\u0430 \u0441 \u0441\u0435\u0431\u044f \u043e\u0434\u0435\u0436\u0434\u0443.",
+        "input_text": "Она сняла с себя одежду.",
         "target_text": "She took off her clothes.",
         "generated_text": "She slept with her clothes.",
         "gold_label": "Hallucination",
@@ -5684,7 +5782,7 @@
         "p(Hallucination)": "1.00"
     },
     {
-        "input_text": "\u0415\u0439 \u043d\u0435 \u043d\u0440\u0430\u0432\u0438\u0442\u0441\u044f \u043c\u043e\u044f \u043c\u0430\u043d\u0435\u0440\u0430 \u0433\u043e\u0432\u043e\u0440\u0438\u0442\u044c.",
+        "input_text": "Ей не нравится моя манера говорить.",
         "target_text": "She doesn't like the way I speak.",
         "generated_text": "She doesn't like to talk about my manner.",
         "gold_label": "Hallucination",
@@ -5698,7 +5796,7 @@
         "p(Hallucination)": "1.00"
     },
     {
-        "input_text": "\u041c\u043e\u043d\u0430\u0445 \u0432 \u043c\u043e\u043d\u0430\u0441\u0442\u044b\u0440\u0435.",
+        "input_text": "Монах в монастыре.",
         "target_text": "The monk is in the monastery.",
         "generated_text": "Monk in the monastery.",
         "gold_label": "Not Hallucination",
@@ -5712,7 +5810,7 @@
         "p(Hallucination)": "0.00"
     },
     {
-        "input_text": "\u0425\u043e\u0442\u0438\u0442\u0435 \u0437\u0430\u043f\u0438\u0441\u0430\u0442\u044c\u0441\u044f \u043d\u0430 \u043f\u0440\u0438\u0435\u043c?",
+        "input_text": "Хотите записаться на прием?",
         "target_text": "Would you like to make an appointment?",
         "generated_text": "Do you want to sign up for admission?",
         "gold_label": "Hallucination",
@@ -5723,10 +5821,11 @@
         "student_answer": "Not Hallucination",
         "parttimer_answer": "Not Hallucination",
         "combined_answer": "Not Hallucination",
-        "p(Hallucination)": "0.00"
+        "p(Hallucination)": "0.00",
+        "task": "MT"
     },
     {
-        "input_text": "\u042f \u0433\u043e\u0442\u043e\u0432, \u0430 \u0432\u044b?",
+        "input_text": "Я готов, а вы?",
         "target_text": "I'm ready, and you?",
         "generated_text": "I'm ready, aren't you?",
         "gold_label": "Not Hallucination",
@@ -5740,7 +5839,7 @@
         "p(Hallucination)": "0.00"
     },
     {
-        "input_text": "\u042d\u0442\u043e \u043d\u0435 \u0434\u043b\u044f \u0432\u0441\u0435\u0445.",
+        "input_text": "Это не для всех.",
         "target_text": "This isn't everyone's cup of tea.",
         "generated_text": "It's not for everyone.",
         "gold_label": "Not Hallucination",
@@ -5754,7 +5853,7 @@
         "p(Hallucination)": "0.00"
     },
     {
-        "input_text": "\u0413\u0434\u0435 \u043c\u043d\u0435 \u0435\u0433\u043e \u0438\u0441\u043a\u0430\u0442\u044c?",
+        "input_text": "Где мне его искать?",
         "target_text": "Where should I look for it?",
         "generated_text": "Where do I want him?",
         "gold_label": "Hallucination",
@@ -5768,7 +5867,7 @@
         "p(Hallucination)": "1.00"
     },
     {
-        "input_text": "\u041f\u043e\u0442\u043e\u043a \u043b\u0430\u0432\u044b \u0443\u043d\u0438\u0447\u0442\u043e\u0436\u0430\u043b \u0432\u0441\u0451 \u043d\u0430 \u0441\u0432\u043e\u0451\u043c \u043f\u0443\u0442\u0438.",
+        "input_text": "Поток лавы уничтожал всё на своём пути.",
         "target_text": "The lava flow destroyed everything in its path.",
         "generated_text": "The lava flow destroyed everything in its own way.",
         "gold_label": "Not Hallucination",
@@ -5782,7 +5881,7 @@
         "p(Hallucination)": "0.20"
     },
     {
-        "input_text": "\u0422\u043e\u043c \u0441\u0442\u0430\u0440\u0430\u0435\u0442\u0441\u044f \u0438\u0437\u043e \u0432\u0441\u0435\u0445 \u0441\u0438\u043b.",
+        "input_text": "Том старается изо всех сил.",
         "target_text": "Tom is trying as hard as he can.",
         "generated_text": "Tom is trying his best.",
         "gold_label": "Not Hallucination",
@@ -5796,7 +5895,7 @@
         "p(Hallucination)": "0.00"
     },
     {
-        "input_text": "\u0421\u043a\u043e\u0440\u0435\u0435 \u0432\u0441\u0435\u0433\u043e, \u043d\u0438\u043a\u0442\u043e \u0434\u0430\u0436\u0435 \u043d\u0435 \u0437\u0430\u043c\u0435\u0442\u0438\u0442.",
+        "input_text": "Скорее всего, никто даже не заметит.",
         "target_text": "No one will likely even notice.",
         "generated_text": "Most likely, no one will even notice.",
         "gold_label": "Not Hallucination",
@@ -5810,7 +5909,7 @@
         "p(Hallucination)": "0.00"
     },
     {
-        "input_text": "\u0421\u0435\u0433\u043e\u0434\u043d\u044f \u0441\u043d\u0435\u0433.",
+        "input_text": "Сегодня снег.",
         "target_text": "Today it's snowing.",
         "generated_text": "It's snowing today.",
         "gold_label": "Not Hallucination",
@@ -5824,7 +5923,7 @@
         "p(Hallucination)": "0.00"
     },
     {
-        "input_text": "\u041c\u044b \u0443\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u043c \u043f\u0440\u043e\u0436\u0435\u043a\u0442\u043e\u0440\u044b.",
+        "input_text": "Мы установим прожекторы.",
         "target_text": "We'll install spotlights.",
         "generated_text": "We'll set up projectors.",
         "gold_label": "Hallucination",
@@ -5838,7 +5937,7 @@
         "p(Hallucination)": "1.00"
     },
     {
-        "input_text": "\u042f \u0447\u0438\u0445\u043d\u0443\u043b \u043e\u043a\u043e\u043b\u043e \u0434\u0432\u0430\u0434\u0446\u0430\u0442\u0438 \u0440\u0430\u0437.",
+        "input_text": "Я чихнул около двадцати раз.",
         "target_text": "I sneezed about twenty times.",
         "generated_text": "I walked about twenty times.",
         "gold_label": "Hallucination",
@@ -5852,7 +5951,7 @@
         "p(Hallucination)": "1.00"
     },
     {
-        "input_text": "\u041c\u044d\u0440\u0438 \u0441\u0447\u0438\u0442\u0430\u0435\u0442, \u0447\u0442\u043e \u043e\u043d\u0430 \u0441\u0430\u043c\u0430\u044f \u0443\u043c\u043d\u0430\u044f.",
+        "input_text": "Мэри считает, что она самая умная.",
         "target_text": "Mary thinks she's smarter than everyone else.",
         "generated_text": "Mary thinks she's the smartest.",
         "gold_label": "Not Hallucination",
@@ -5866,7 +5965,7 @@
         "p(Hallucination)": "0.00"
     },
     {
-        "input_text": "\u0421\u043a\u043e\u043b\u044c\u043a\u043e \u0432\u0440\u0435\u043c\u0435\u043d\u0438 \u0442\u0435\u0431\u0435 \u043d\u0443\u0436\u043d\u043e, \u0447\u0442\u043e\u0431\u044b \u0435\u0433\u043e \u043f\u043e\u0447\u0438\u043d\u0438\u0442\u044c?",
+        "input_text": "Сколько времени тебе нужно, чтобы его починить?",
         "target_text": "How much time do you need to repair it?",
         "generated_text": "How long do you need to start it?",
         "gold_label": "Hallucination",
@@ -5880,7 +5979,7 @@
         "p(Hallucination)": "1.00"
     },
     {
-        "input_text": "\u0417\u0434\u043e\u0440\u043e\u0432\u044b\u0439 \u0447\u0435\u043b\u043e\u0432\u0435\u043a \u043d\u0435 \u0437\u043d\u0430\u0435\u0442 \u0446\u0435\u043d\u044b \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044e.",
+        "input_text": "Здоровый человек не знает цены здоровью.",
         "target_text": "A healthy man does not know the value of health.",
         "generated_text": "A healthy person does not know the prices of health.",
         "gold_label": "Not Hallucination",
@@ -5894,7 +5993,7 @@
         "p(Hallucination)": "0.00"
     },
     {
-        "input_text": "\u0422\u044b \u0433\u043e\u0432\u043e\u0440\u0438\u0448\u044c \u043f\u043e-\u043d\u0435\u043c\u0435\u0446\u043a\u0438.",
+        "input_text": "Ты говоришь по-немецки.",
         "target_text": "You speak German.",
         "generated_text": "You're speaking German.",
         "gold_label": "Not Hallucination",
@@ -5908,9 +6007,9 @@
         "p(Hallucination)": "0.00"
     },
     {
-        "input_text": "\u042f \u043d\u0435 \u0445\u043e\u0442\u0435\u043b, \u0447\u0442\u043e\u0431\u044b \u0441\u043e \u043c\u043d\u043e\u0439 \u0431\u044b\u043b\u043e \u0442\u043e \u0436\u0435 \u0441\u0430\u043c\u043e\u0435.",
+        "input_text": "Я не хотел, чтобы со мной было то же самое.",
         "target_text": "I didn't want the same thing to happen to me.",
-        "generated_text": "I didn\u2019t want it to be the same with me.",
+        "generated_text": "I didn’t want it to be the same with me.",
         "gold_label": "Not Hallucination",
         "gold_p(Hallucination)": 0.2,
         "editor_answer": "Not Hallucination",
@@ -5922,7 +6021,7 @@
         "p(Hallucination)": "0.00"
     },
     {
-        "input_text": "\u0412\u044b \u0445\u043e\u0442\u0438\u0442\u0435 \u0441\u043a\u0430\u0437\u0430\u0442\u044c, \u0447\u0442\u043e \u044d\u0442\u043e \u0432\u0430\u0441 \u043d\u0435 \u043f\u0443\u0433\u0430\u0435\u0442?",
+        "input_text": "Вы хотите сказать, что это вас не пугает?",
         "target_text": "Do you mean that doesn't scare you?",
         "generated_text": "You mean it doesn't scare you?",
         "gold_label": "Not Hallucination",
@@ -5936,7 +6035,7 @@
         "p(Hallucination)": "0.00"
     },
     {
-        "input_text": "\u0411\u0435\u0437 \u0442\u0432\u043e\u0435\u0439 \u043f\u043e\u043c\u043e\u0449\u0438 \u044d\u0442\u043e \u0431\u044b\u043b\u043e \u0431\u044b \u043d\u0435\u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e.",
+        "input_text": "Без твоей помощи это было бы невозможно.",
         "target_text": "It would've been impossible without your help.",
         "generated_text": "Without your help it would be impossible.",
         "gold_label": "Not Hallucination",
@@ -5950,7 +6049,7 @@
         "p(Hallucination)": "0.00"
     },
     {
-        "input_text": "\u041e\u043d \u0434\u0430\u0432\u043d\u043e \u0435\u0451 \u0437\u043d\u0430\u0435\u0442.",
+        "input_text": "Он давно её знает.",
         "target_text": "He has known her for a long time.",
         "generated_text": "He knew her a long time ago.",
         "gold_label": "Not Hallucination",
@@ -5964,7 +6063,7 @@
         "p(Hallucination)": "0.00"
     },
     {
-        "input_text": "\u0422\u043e\u043c \u0442\u043e\u043b\u044c\u043a\u043e-\u0447\u0442\u043e \u0441\u0442\u043e\u044f\u043b \u0442\u0430\u043c, \u043e\u0442\u043a\u0440\u044b\u0432 \u0440\u043e\u0442, \u0438 \u0433\u043b\u0430\u0437\u0435\u043b \u043d\u0430 \u041c\u044d\u0440\u0438.",
+        "input_text": "Том только-что стоял там, открыв рот, и глазел на Мэри.",
         "target_text": "Tom just stood there with his mouth open, staring at Mary.",
         "generated_text": "Tom just stood there, opened his mouth, and looked at Mary.",
         "gold_label": "Not Hallucination",
@@ -5978,7 +6077,7 @@
         "p(Hallucination)": "0.00"
     },
     {
-        "input_text": "\u0422\u043e\u043c \u0432\u0435\u0440\u043d\u0443\u043b\u0441\u044f \u0432 \u0411\u043e\u0441\u0442\u043e\u043d \u043f\u043e\u0441\u043b\u0435 \u0442\u0440\u0451\u0445\u0434\u043d\u0435\u0432\u043d\u043e\u0433\u043e \u043e\u0442\u0441\u0443\u0442\u0441\u0442\u0432\u0438\u044f.",
+        "input_text": "Том вернулся в Бостон после трёхдневного отсутствия.",
         "target_text": "Tom came back to Boston after being away for three years.",
         "generated_text": "Tom returned to Boston after a three-day absence.",
         "gold_label": "Hallucination",
@@ -5989,12 +6088,13 @@
         "student_answer": "Not Hallucination",
         "parttimer_answer": "Not Hallucination",
         "combined_answer": "Not Hallucination",
-        "p(Hallucination)": "0.00"
+        "p(Hallucination)": "0.00",
+        "task": "MT"
     },
     {
-        "input_text": "\u041e\u0434\u0438\u043d \u043a\u0432\u0430\u0434\u0440\u0430\u0442\u043d\u044b\u0439 \u043c\u0435\u0442\u0440 \u0441\u043e\u043b\u043d\u0435\u0447\u043d\u043e\u0439 \u0431\u0430\u0442\u0430\u0440\u0435\u0438 \u0432\u044b\u0440\u0430\u0431\u0430\u0442\u044b\u0432\u0430\u0435\u0442 \u043f\u0440\u0438\u043c\u0435\u0440\u043d\u043e \u043e\u0434\u0438\u043d \u0432\u0430\u0442\u0442 \u044d\u043d\u0435\u0440\u0433\u0438\u0438, \u043f\u043e\u044d\u0442\u043e\u043c\u0443 \u0432 \u0434\u0430\u043d\u043d\u044b\u0439 \u043c\u043e\u043c\u0435\u043d\u0442 \u043d\u0435\u043f\u0440\u043e\u0441\u0442\u043e \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u044c \u0441\u043e\u043b\u043d\u0435\u0447\u043d\u0443\u044e \u044d\u043d\u0435\u0440\u0433\u0438\u044e \u0432 \u043a\u0440\u0443\u043f\u043d\u044b\u0445 \u043c\u0430\u0441\u0448\u0442\u0430\u0431\u0430\u0445.",
+        "input_text": "Один квадратный метр солнечной батареи вырабатывает примерно один ватт энергии, поэтому в данный момент непросто использовать солнечную энергию в крупных масштабах.",
         "target_text": "The output power of a one square meter solar panel is about one watt, so it is difficult to use solar power on a large scale at present.",
-        "generated_text": "One square meter of solar battery produces about one watt of energy, so it\u2019s not easy to use solar energy on a large scale right now.",
+        "generated_text": "One square meter of solar battery produces about one watt of energy, so it’s not easy to use solar energy on a large scale right now.",
         "gold_label": "Not Hallucination",
         "gold_p(Hallucination)": 0.0,
         "editor_answer": "Not Hallucination",
@@ -6006,7 +6106,7 @@
         "p(Hallucination)": "0.00"
     },
     {
-        "input_text": "\u042d\u0442\u043e \u043e\u0447\u0435\u043d\u044c \u0432\u0435\u0441\u0435\u043b\u043e, \u0441\u043e\u0431\u0438\u0440\u0430\u0442\u044c \u0440\u0430\u0437\u043d\u043e\u043e\u0431\u0440\u0430\u0437\u043d\u044b\u0435 \u0440\u0430\u043a\u0443\u0448\u043a\u0438 \u043d\u0430 \u043f\u043b\u044f\u0436\u0435.",
+        "input_text": "Это очень весело, собирать разнообразные ракушки на пляже.",
         "target_text": "It is a lot of fun picking various shells on the sands.",
         "generated_text": "It is very fun to collect various crabs on the beach.",
         "gold_label": "Hallucination",
@@ -6020,7 +6120,7 @@
         "p(Hallucination)": "1.00"
     },
     {
-        "input_text": "\u0414\u0443\u043c\u0430\u044e, \u043e\u043d \u0434\u0435\u043b\u0430\u0435\u0442 \u0432\u0438\u0434.",
+        "input_text": "Думаю, он делает вид.",
         "target_text": "I think he's faking.",
         "generated_text": "I think he's making a look.",
         "gold_label": "Hallucination",
@@ -6034,7 +6134,7 @@
         "p(Hallucination)": "1.00"
     },
     {
-        "input_text": "\u041f\u043e\u0441\u0442\u043e\u0439-\u043a\u0430, \u0442\u044b \u044d\u0442\u043e \u0441\u0435\u0440\u044c\u0451\u0437\u043d\u043e?",
+        "input_text": "Постой-ка, ты это серьёзно?",
         "target_text": "Woah, are you serious?",
         "generated_text": "Wait, are you serious?",
         "gold_label": "Not Hallucination",
@@ -6048,7 +6148,7 @@
         "p(Hallucination)": "0.00"
     },
     {
-        "input_text": "\u0422\u044b \u0441\u043b\u044b\u0448\u0430\u043b, \u043a\u0430\u043a \u043f\u0442\u0438\u0446\u044b \u0449\u0435\u0431\u0435\u0447\u0443\u0442?",
+        "input_text": "Ты слышал, как птицы щебечут?",
         "target_text": "Did you hear the birds tweeting?",
         "generated_text": "Did you hear how the birds smell?",
         "gold_label": "Hallucination",
@@ -6062,7 +6162,7 @@
         "p(Hallucination)": "1.00"
     },
     {
-        "input_text": "\u0427\u0442\u043e \u0442\u044b \u0442\u0430\u043c \u043f\u043e\u0451\u0448\u044c?",
+        "input_text": "Что ты там поёшь?",
         "target_text": "What are you singing?",
         "generated_text": "What are you drinking there?",
         "gold_label": "Hallucination",
@@ -6076,7 +6176,7 @@
         "p(Hallucination)": "1.00"
     },
     {
-        "input_text": "\u0411\u043e\u043c\u0431\u0430 \u0431\u044b\u043b\u0430 \u0443\u0441\u043f\u0435\u0448\u043d\u043e \u043e\u0431\u0435\u0437\u0432\u0440\u0435\u0436\u0435\u043d\u0430.",
+        "input_text": "Бомба была успешно обезврежена.",
         "target_text": "The bomb was successfully defused.",
         "generated_text": "The bomb was successfully decommissioned.",
         "gold_label": "Not Hallucination",
@@ -6090,9 +6190,9 @@
         "p(Hallucination)": "0.20"
     },
     {
-        "input_text": "\u041c\u043d\u0435 \u043d\u0440\u0430\u0432\u044f\u0442\u0441\u044f \u043b\u044e\u0434\u0438, \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u043d\u0435 \u0431\u043e\u044f\u0442\u0441\u044f \u0441\u0442\u0430\u0440\u0435\u0442\u044c.",
+        "input_text": "Мне нравятся люди, которые не боятся стареть.",
         "target_text": "I like people who are not afraid to grow old.",
-        "generated_text": "I like people who don\u2019t like to be old.",
+        "generated_text": "I like people who don’t like to be old.",
         "gold_label": "Hallucination",
         "gold_p(Hallucination)": 0.8,
         "editor_answer": "Hallucination",
@@ -6104,7 +6204,7 @@
         "p(Hallucination)": "1.00"
     },
     {
-        "input_text": "\u042d\u0442\u043e \u0412\u044b \u043c\u0435\u043d\u044f \u0441\u043f\u0430\u0441\u043b\u0438?",
+        "input_text": "Это Вы меня спасли?",
         "target_text": "Are you the one who saved me?",
         "generated_text": "Did you save me?",
         "gold_label": "Not Hallucination",
@@ -6118,7 +6218,7 @@
         "p(Hallucination)": "0.00"
     },
     {
-        "input_text": "\u042d\u0442\u043e \u0442\u044b \u0434\u0430\u043b \u0435\u043c\u0443 \u043c\u043e\u0439 \u0430\u0434\u0440\u0435\u0441?",
+        "input_text": "Это ты дал ему мой адрес?",
         "target_text": "Were you the one who gave him my address?",
         "generated_text": "Did you give him my address?",
         "gold_label": "Not Hallucination",
@@ -6132,7 +6232,7 @@
         "p(Hallucination)": "0.00"
     },
     {
-        "input_text": "\u0421\u0432\u043e\u0431\u043e\u0434\u0430 \u0431\u0435\u0441\u0446\u0435\u043d\u043d\u0430.",
+        "input_text": "Свобода бесценна.",
         "target_text": "Freedom is invaluable.",
         "generated_text": "Freedom is worthless.",
         "gold_label": "Hallucination",
@@ -6146,7 +6246,7 @@
         "p(Hallucination)": "1.00"
     },
     {
-        "input_text": "\u041d\u0430 \u043d\u0435\u043c\u0435\u0446\u043a\u043e\u043c \u0442\u043e\u0436\u0435 \u0433\u043e\u0432\u043e\u0440\u044f\u0442?",
+        "input_text": "На немецком тоже говорят?",
         "target_text": "Is German spoken too?",
         "generated_text": "Do they speak German too?",
         "gold_label": "Not Hallucination",
@@ -6160,7 +6260,7 @@
         "p(Hallucination)": "0.00"
     },
     {
-        "input_text": "\u0412\u043e\u0437\u043c\u043e\u0436\u043d\u043e, \u043c\u043d\u0435 \u043b\u0443\u0447\u0448\u0435 \u0441\u0430\u043c\u043e\u043c\u0443 \u043f\u043e\u0437\u0432\u0430\u0442\u044c \u0422\u043e\u043c\u0430.",
+        "input_text": "Возможно, мне лучше самому позвать Тома.",
         "target_text": "Maybe I should call Tom myself.",
         "generated_text": "Maybe I'd better call Tom.",
         "gold_label": "Not Hallucination",
@@ -6174,7 +6274,7 @@
         "p(Hallucination)": "0.00"
     },
     {
-        "input_text": "\u0422\u044b \u043d\u0435 \u0437\u043d\u0430\u043b, \u0447\u0442\u043e \u0422\u043e\u043c \u0436\u0438\u043b \u0432 \u0411\u043e\u0441\u0442\u043e\u043d\u0435, \u043a\u043e\u0433\u0434\u0430 \u0431\u044b\u043b \u0440\u0435\u0431\u0451\u043d\u043a\u043e\u043c?",
+        "input_text": "Ты не знал, что Том жил в Бостоне, когда был ребёнком?",
         "target_text": "Didn't you know Tom lived in Boston when he was a kid?",
         "generated_text": "You didn't know Tom lived in Boston when he was a kid?",
         "gold_label": "Not Hallucination",
@@ -6188,7 +6288,7 @@
         "p(Hallucination)": "0.00"
     },
     {
-        "input_text": "\u0417\u0430 \u043c\u043d\u043e\u0439 \u043d\u0438\u043a\u043e\u0433\u043e, \u044f \u043f\u043e\u0441\u043b\u0435\u0434\u043d\u044f\u044f.",
+        "input_text": "За мной никого, я последняя.",
         "target_text": "There's no one behind me. I'm the last one.",
         "generated_text": "No one's behind me, I'm the last one.",
         "gold_label": "Not Hallucination",
@@ -6202,7 +6302,7 @@
         "p(Hallucination)": "0.00"
     },
     {
-        "input_text": "\u041a\u0442\u043e-\u0442\u043e \u043a\u0440\u0438\u0447\u0430\u043b.",
+        "input_text": "Кто-то кричал.",
         "target_text": "Someone screamed.",
         "generated_text": "Someone was yelling.",
         "gold_label": "Not Hallucination",
@@ -6216,7 +6316,7 @@
         "p(Hallucination)": "0.00"
     },
     {
-        "input_text": "\u041d\u0435\u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u043f\u0440\u0435\u0434\u043b\u043e\u0436\u0435\u043d\u0438\u044f \u0441\u043b\u0438\u0448\u043a\u043e\u043c \u0434\u043b\u0438\u043d\u043d\u044b\u0435.",
+        "input_text": "Некоторые предложения слишком длинные.",
         "target_text": "Some sentences are too long.",
         "generated_text": "Some suggestions are too long.",
         "gold_label": "Hallucination",
@@ -6230,9 +6330,9 @@
         "p(Hallucination)": "1.00"
     },
     {
-        "input_text": "\u042f \u0445\u043e\u0447\u0443 \u0442\u043e\u043b\u044c\u043a\u043e \u043d\u0430\u043f\u043e\u043c\u043d\u0438\u0442\u044c, \u0447\u0442\u043e \u044d\u0442\u043e \u0431\u044b\u043b\u0430 \u043d\u0435 \u043c\u043e\u044f \u0438\u0434\u0435\u044f.",
+        "input_text": "Я хочу только напомнить, что это была не моя идея.",
         "target_text": "I just want to remind you that this wasn't my idea.",
-        "generated_text": "I just want to remember that it wasn\u2019t my idea.",
+        "generated_text": "I just want to remember that it wasn’t my idea.",
         "gold_label": "Hallucination",
         "gold_p(Hallucination)": 0.6,
         "editor_answer": "Not Hallucination",
@@ -6241,10 +6341,11 @@
         "student_answer": "Not Hallucination",
         "parttimer_answer": "Not Hallucination",
         "combined_answer": "Not Hallucination",
-        "p(Hallucination)": "0.00"
+        "p(Hallucination)": "0.00",
+        "task": "MT"
     },
     {
-        "input_text": "\u041e\u043d\u0430 \u043d\u0435 \u043e\u0441\u043e\u0431\u0435\u043d\u043d\u043e \u043f\u043e\u043c\u043e\u0433\u043b\u0430.",
+        "input_text": "Она не особенно помогла.",
         "target_text": "She wasn't much help.",
         "generated_text": "She didn't particularly help.",
         "gold_label": "Not Hallucination",
@@ -6258,9 +6359,9 @@
         "p(Hallucination)": "0.00"
     },
     {
-        "input_text": "\u0421\u043e\u0431\u0430\u043a\u0438 \u043d\u0435 \u0440\u0430\u0437\u043b\u0438\u0447\u0430\u044e\u0442 \u0446\u0432\u0435\u0442\u0430.",
+        "input_text": "Собаки не различают цвета.",
         "target_text": "Dogs can't tell colors apart.",
-        "generated_text": "Dogs don\u2019t distinguish colors.",
+        "generated_text": "Dogs don’t distinguish colors.",
         "gold_label": "Not Hallucination",
         "gold_p(Hallucination)": 0.0,
         "editor_answer": "Not Hallucination",
@@ -6272,9 +6373,9 @@
         "p(Hallucination)": "0.00"
     },
     {
-        "input_text": "\u041e\u043d \u0431\u0435\u0433\u043b\u043e \u0433\u043e\u0432\u043e\u0440\u0438\u0442 \u043f\u043e-\u0440\u0443\u0441\u0441\u043a\u0438 \u2014 \u043f\u043e \u043a\u0440\u0430\u0439\u043d\u0435\u0439 \u043c\u0435\u0440\u0435, \u043e\u043d \u0442\u0430\u043a \u043c\u043d\u0435 \u0441\u043a\u0430\u0437\u0430\u043b.",
+        "input_text": "Он бегло говорит по-русски — по крайней мере, он так мне сказал.",
         "target_text": "He speaks fluent Russian, or at least that's what he told me.",
-        "generated_text": "He speaks Russian fluently \u2013 at least he told me so.",
+        "generated_text": "He speaks Russian fluently – at least he told me so.",
         "gold_label": "Not Hallucination",
         "gold_p(Hallucination)": 0.0,
         "editor_answer": "Not Hallucination",
@@ -6286,7 +6387,7 @@
         "p(Hallucination)": "0.00"
     },
     {
-        "input_text": "\u0418 \u0422\u043e\u043c, \u0438 \u041c\u044d\u0440\u0438 \u0437\u043d\u0430\u044e\u0442, \u043a\u0442\u043e \u044d\u0442\u043e \u0441\u0434\u0435\u043b\u0430\u043b.",
+        "input_text": "И Том, и Мэри знают, кто это сделал.",
         "target_text": "Both Tom and Mary know who did that.",
         "generated_text": "Tom and Mary both know who did it.",
         "gold_label": "Not Hallucination",
@@ -6300,7 +6401,7 @@
         "p(Hallucination)": "0.00"
     },
     {
-        "input_text": "\u0422\u043e\u043c \u043d\u0435 \u0437\u043d\u0430\u0435\u0442, \u0447\u0442\u043e \u041c\u044d\u0440\u0438 \u0445\u043e\u0447\u0435\u0442, \u0447\u0442\u043e\u0431\u044b \u043e\u043d \u043a\u0443\u043f\u0438\u043b.",
+        "input_text": "Том не знает, что Мэри хочет, чтобы он купил.",
         "target_text": "Tom doesn't know what Mary wants him to buy.",
         "generated_text": "Tom doesn't know Mary wants him to buy.",
         "gold_label": "Hallucination",
@@ -6314,7 +6415,7 @@
         "p(Hallucination)": "0.80"
     },
     {
-        "input_text": "\u041e\u0434\u0435\u0432\u0430\u0435\u043c \u043d\u0430\u0448\u0438 \u043f\u0430\u043b\u044c\u0442\u043e \u0438 \u0448\u0430\u043f\u043a\u0438.",
+        "input_text": "Одеваем наши пальто и шапки.",
         "target_text": "We put on our coats and hats.",
         "generated_text": "We wear our coats and hats.",
         "gold_label": "Not Hallucination",
@@ -6328,7 +6429,7 @@
         "p(Hallucination)": "0.00"
     },
     {
-        "input_text": "\u041c\u044d\u0440\u0438 \u0441\u0447\u0438\u0442\u0430\u0435\u0442, \u0447\u0442\u043e \u043e\u043d\u0430 \u0441\u0430\u043c\u0430\u044f \u0443\u043c\u043d\u0430\u044f.",
+        "input_text": "Мэри считает, что она самая умная.",
         "target_text": "Mary thinks she's smarter than everyone else.",
         "generated_text": "Mary thinks she's the smartest.",
         "gold_label": "Not Hallucination",
@@ -6342,7 +6443,7 @@
         "p(Hallucination)": "0.00"
     },
     {
-        "input_text": "\u041c\u044b \u0432\u0438\u0434\u0435\u043b\u0438, \u043a\u0430\u043a \u0440\u0435\u0431\u0435\u043d\u043e\u043a \u0441\u0435\u043b \u0432 \u0430\u0432\u0442\u043e\u0431\u0443\u0441.",
+        "input_text": "Мы видели, как ребенок сел в автобус.",
         "target_text": "We saw the child get on the bus.",
         "generated_text": "We saw a child sitting on a bus.",
         "gold_label": "Hallucination",
@@ -6353,10 +6454,11 @@
         "student_answer": "Not Hallucination",
         "parttimer_answer": "Not Hallucination",
         "combined_answer": "Not Hallucination",
-        "p(Hallucination)": "0.00"
+        "p(Hallucination)": "0.00",
+        "task": "MT"
     },
     {
-        "input_text": "\u0423 \u043d\u0435\u0433\u043e \u0441\u043b\u043e\u043c\u0430\u043d\u0430 \u0448\u0435\u044f.",
+        "input_text": "У него сломана шея.",
         "target_text": "His neck is broken.",
         "generated_text": "He had a broken neck.",
         "gold_label": "Not Hallucination",
@@ -6370,7 +6472,7 @@
         "p(Hallucination)": "0.00"
     },
     {
-        "input_text": "\u041c\u044b \u0432\u0441\u0435 \u0442\u0435\u0431\u044f \u043b\u044e\u0431\u0438\u043c.",
+        "input_text": "Мы все тебя любим.",
         "target_text": "We all love you.",
         "generated_text": "We love you all.",
         "gold_label": "Hallucination",
@@ -6381,12 +6483,13 @@
         "student_answer": "Not Hallucination",
         "parttimer_answer": "Not Hallucination",
         "combined_answer": "Not Hallucination",
-        "p(Hallucination)": "0.00"
+        "p(Hallucination)": "0.00",
+        "task": "MT"
     },
     {
-        "input_text": "\u041d\u0430\u043c \u043d\u0435 \u0442\u0430\u043a \u0443\u0436 \u0432\u0430\u0436\u043d\u043e, \u0441\u043a\u043e\u043b\u044c\u043a\u043e \u0432\u0430\u043c \u043b\u0435\u0442.",
+        "input_text": "Нам не так уж важно, сколько вам лет.",
         "target_text": "We don't really care how old you are.",
-        "generated_text": "It doesn\u2019t matter how old you are.",
+        "generated_text": "It doesn’t matter how old you are.",
         "gold_label": "Not Hallucination",
         "gold_p(Hallucination)": 0.0,
         "editor_answer": "Not Hallucination",
@@ -6398,7 +6501,7 @@
         "p(Hallucination)": "0.00"
     },
     {
-        "input_text": "\u042f \u0445\u043e\u0442\u0435\u043b \u0431\u044b \u043e\u0441\u0442\u0430\u0432\u0438\u0442\u044c \u043e\u0442\u0437\u044b\u0432.",
+        "input_text": "Я хотел бы оставить отзыв.",
         "target_text": "I'd like to leave feedback.",
         "generated_text": "I would like to leave a comment.",
         "gold_label": "Not Hallucination",
@@ -6412,7 +6515,7 @@
         "p(Hallucination)": "0.00"
     },
     {
-        "input_text": "\u0412 \u043c\u043e\u0435\u0439 \u0441\u0442\u0440\u0430\u043d\u0435 \u043b\u044e\u0434\u0438 \u043e\u0431\u044b\u0447\u043d\u043e \u043f\u0440\u0438\u0432\u0435\u0442\u0441\u0442\u0432\u0443\u044e\u0442 \u0434\u0440\u0443\u0433 \u0434\u0440\u0443\u0433\u0430 \u0440\u0443\u043a\u043e\u043f\u043e\u0436\u0430\u0442\u0438\u0435\u043c.",
+        "input_text": "В моей стране люди обычно приветствуют друг друга рукопожатием.",
         "target_text": "People generally greet each other by shaking hands in my country.",
         "generated_text": "In my country, people usually welcome each other by hand.",
         "gold_label": "Not Hallucination",
@@ -6423,10 +6526,11 @@
         "student_answer": "Hallucination",
         "parttimer_answer": "Hallucination",
         "combined_answer": "Hallucination",
-        "p(Hallucination)": "1.00"
+        "p(Hallucination)": "1.00",
+        "task": "MT"
     },
     {
-        "input_text": "\u0422\u044b \u0447\u0430\u0441\u0442\u043e \u043a\u0443\u043f\u0430\u0435\u0448\u044c\u0441\u044f?",
+        "input_text": "Ты часто купаешься?",
         "target_text": "Do you go swimming often?",
         "generated_text": "Do you often buy?",
         "gold_label": "Hallucination",
@@ -6440,7 +6544,7 @@
         "p(Hallucination)": "1.00"
     },
     {
-        "input_text": "\u041f\u043b\u0430\u0432\u0430\u0442\u044c \u0441 \u0434\u0435\u043b\u044c\u0444\u0438\u043d\u0430\u043c\u0438 \u043e\u043f\u0430\u0441\u043d\u043e.",
+        "input_text": "Плавать с дельфинами опасно.",
         "target_text": "It is dangerous to swim with dolphins.",
         "generated_text": "Swimming with dolphins is dangerous.",
         "gold_label": "Not Hallucination",
@@ -6454,7 +6558,7 @@
         "p(Hallucination)": "0.00"
     },
     {
-        "input_text": "\u0422\u043e\u043c \u0435\u0434\u0438\u043d\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0439 \u0437\u0434\u0435\u0441\u044c, \u0443 \u043a\u043e\u0433\u043e \u043d\u0435\u0442 \u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c\u0441\u043a\u0438\u0445 \u043f\u0440\u0430\u0432?",
+        "input_text": "Том единственный здесь, у кого нет водительских прав?",
         "target_text": "Is Tom the only one here who doesn't have a driver's license?",
         "generated_text": "That's the only one here who has no driver's license?",
         "gold_label": "Not Hallucination",
@@ -6465,10 +6569,11 @@
         "student_answer": "Hallucination",
         "parttimer_answer": "Hallucination",
         "combined_answer": "Hallucination",
-        "p(Hallucination)": "1.00"
+        "p(Hallucination)": "1.00",
+        "task": "MT"
     },
     {
-        "input_text": "\u041d\u0430\u043c \u043d\u0430\u0434\u043e \u0435\u0433\u043e \u043d\u0430\u043d\u044f\u0442\u044c.",
+        "input_text": "Нам надо его нанять.",
         "target_text": "We should hire him.",
         "generated_text": "We have to hire him.",
         "gold_label": "Not Hallucination",
@@ -6482,7 +6587,7 @@
         "p(Hallucination)": "0.00"
     },
     {
-        "input_text": "\u041c\u043e\u0436\u0435\u0442\u0435 \u0443\u0445\u043e\u0434\u0438\u0442\u044c, \u0435\u0441\u043b\u0438 \u0445\u043e\u0442\u0438\u0442\u0435.",
+        "input_text": "Можете уходить, если хотите.",
         "target_text": "You may leave if you want to.",
         "generated_text": "You can leave if you want.",
         "gold_label": "Not Hallucination",
@@ -6496,7 +6601,7 @@
         "p(Hallucination)": "0.00"
     },
     {
-        "input_text": "\u042f \u0438\u0445 \u043d\u0435 \u0431\u043e\u044e\u0441\u044c.",
+        "input_text": "Я их не боюсь.",
         "target_text": "I don't fear them.",
         "generated_text": "I'm not afraid of them.",
         "gold_label": "Not Hallucination",
@@ -6510,7 +6615,7 @@
         "p(Hallucination)": "0.00"
     },
     {
-        "input_text": "\u041a\u043e\u0433\u0434\u0430 \u044f \u0432\u0441\u0442\u0440\u0435\u0442\u0438\u043b \u0435\u0451 \u043d\u0430 \u0434\u043d\u044f\u0445, \u043e\u043d\u0430 \u0432\u044b\u0433\u043b\u044f\u0434\u0435\u043b\u0430 \u043e\u0447\u0435\u043d\u044c \u0441\u0447\u0430\u0441\u0442\u043b\u0438\u0432\u043e\u0439.",
+        "input_text": "Когда я встретил её на днях, она выглядела очень счастливой.",
         "target_text": "When I saw her recently, she looked very happy.",
         "generated_text": "When I met her during the day, she looked very happy.",
         "gold_label": "Not Hallucination",
@@ -6521,10 +6626,11 @@
         "student_answer": "Hallucination",
         "parttimer_answer": "Not Hallucination",
         "combined_answer": "Hallucination",
-        "p(Hallucination)": "0.60"
+        "p(Hallucination)": "0.60",
+        "task": "MT"
     },
     {
-        "input_text": "\u0422\u044b \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0442\u0435\u043b\u044c\u043d\u043e \u0434\u0443\u043c\u0430\u0435\u0448\u044c, \u0447\u0442\u043e \u044f \u043c\u043e\u0433\u0443 \u043b\u0435\u0442\u0430\u0442\u044c?",
+        "input_text": "Ты действительно думаешь, что я могу летать?",
         "target_text": "You really think I can fly?",
         "generated_text": "Do you really think I can fly?",
         "gold_label": "Not Hallucination",
@@ -6538,7 +6644,7 @@
         "p(Hallucination)": "0.00"
     },
     {
-        "input_text": "\u042f \u043b\u0443\u0447\u0448\u0435 \u043d\u0435 \u0431\u0443\u0434\u0443 \u043e\u0442\u0432\u0435\u0447\u0430\u0442\u044c \u043d\u0430 \u044d\u0442\u043e\u0442 \u0432\u043e\u043f\u0440\u043e\u0441.",
+        "input_text": "Я лучше не буду отвечать на этот вопрос.",
         "target_text": "I'd rather not answer that question.",
         "generated_text": "I'd better not answer that question.",
         "gold_label": "Not Hallucination",
@@ -6552,7 +6658,7 @@
         "p(Hallucination)": "0.00"
     },
     {
-        "input_text": "\u0422\u043e\u043c \u0441\u0442\u0430\u043b \u043e\u0442\u0446\u043e\u043c.",
+        "input_text": "Том стал отцом.",
         "target_text": "Tom is a father now.",
         "generated_text": "Tom became a father.",
         "gold_label": "Not Hallucination",
@@ -6566,7 +6672,7 @@
         "p(Hallucination)": "0.00"
     },
     {
-        "input_text": "\u042f \u0435\u0433\u043e \u0443\u0437\u043d\u0430\u043b\u0430.",
+        "input_text": "Я его узнала.",
         "target_text": "I recognized him.",
         "generated_text": "I knew him.",
         "gold_label": "Not Hallucination",
@@ -6580,7 +6686,7 @@
         "p(Hallucination)": "0.00"
     },
     {
-        "input_text": "\u0423\u0431\u043e\u0440\u0449\u0438\u0446\u0430 \u043f\u0440\u0435\u0440\u0432\u0430\u043b\u0430 \u0440\u0430\u0437\u0433\u043e\u0432\u043e\u0440.",
+        "input_text": "Уборщица прервала разговор.",
         "target_text": "The cleaning lady interrupted the conversation.",
         "generated_text": "The locksmith interrupted the conversation.",
         "gold_label": "Hallucination",
@@ -6594,7 +6700,7 @@
         "p(Hallucination)": "1.00"
     },
     {
-        "input_text": "\u042f \u0435\u0433\u043e \u0432 \u043f\u043e\u0441\u043b\u0435\u0434\u043d\u0435\u0435 \u0432\u0440\u0435\u043c\u044f \u043d\u0435 \u0432\u0438\u0434\u0435\u043b; \u043f\u0435\u0440\u0435\u0434\u0430\u0432\u0430\u0439 \u0435\u043c\u0443 \u043f\u0440\u0438\u0432\u0435\u0442.",
+        "input_text": "Я его в последнее время не видел; передавай ему привет.",
         "target_text": "I haven't seen him lately; give him my regards.",
         "generated_text": "I haven't seen him lately; give him hello.",
         "gold_label": "Not Hallucination",
@@ -6605,10 +6711,11 @@
         "student_answer": "Hallucination",
         "parttimer_answer": "Hallucination",
         "combined_answer": "Hallucination",
-        "p(Hallucination)": "1.00"
+        "p(Hallucination)": "1.00",
+        "task": "MT"
     },
     {
-        "input_text": "\u0423 \u043d\u0430\u0441 \u043e\u043d\u043e \u0443\u0436\u0435 \u0435\u0441\u0442\u044c.",
+        "input_text": "У нас оно уже есть.",
         "target_text": "We already have one.",
         "generated_text": "We already have it.",
         "gold_label": "Not Hallucination",
@@ -6622,7 +6729,7 @@
         "p(Hallucination)": "0.00"
     },
     {
-        "input_text": "\u0422\u0432\u043e\u044f \u0441\u043e\u0431\u0430\u043a\u0430 \u0443\u043c\u0435\u0435\u0442 \u043f\u043b\u0430\u0432\u0430\u0442\u044c?",
+        "input_text": "Твоя собака умеет плавать?",
         "target_text": "Can your dog swim?",
         "generated_text": "Is your dog able to swim?",
         "gold_label": "Not Hallucination",
@@ -6636,7 +6743,7 @@
         "p(Hallucination)": "0.00"
     },
     {
-        "input_text": "\u042d\u0442\u043e\u0442 \u043d\u043e\u0436 \u043e\u0447\u0435\u043d\u044c \u043c\u043d\u0435 \u043f\u0440\u0438\u0433\u043e\u0434\u0438\u043b\u0441\u044f.",
+        "input_text": "Этот нож очень мне пригодился.",
         "target_text": "This knife was very useful to me.",
         "generated_text": "This knife was very good for me.",
         "gold_label": "Not Hallucination",
@@ -6650,7 +6757,7 @@
         "p(Hallucination)": "0.20"
     },
     {
-        "input_text": "\u0422\u043e\u043c \u0432\u043e\u043e\u0440\u0443\u0436\u0438\u043b\u0441\u044f \u0432\u0438\u043d\u0442\u043e\u0432\u043a\u043e\u0439 \u0438 \u043d\u043e\u0436\u043e\u043c.",
+        "input_text": "Том вооружился винтовкой и ножом.",
         "target_text": "Tom armed himself with a gun and a knife.",
         "generated_text": "Tom was armed with a rifle and knife.",
         "gold_label": "Not Hallucination",
@@ -6664,7 +6771,7 @@
         "p(Hallucination)": "0.40"
     },
     {
-        "input_text": "\u0422\u043e\u043c \u0441\u043a\u0430\u0437\u0430\u043b, \u0447\u0442\u043e \u0442\u0440\u0438\u0436\u0434\u044b \u043f\u044b\u0442\u0430\u043b\u0441\u044f \u044d\u0442\u043e \u0441\u0434\u0435\u043b\u0430\u0442\u044c.",
+        "input_text": "Том сказал, что трижды пытался это сделать.",
         "target_text": "Tom said that he's tried doing that three times.",
         "generated_text": "Tom said he tried to do it three times.",
         "gold_label": "Not Hallucination",
@@ -6678,7 +6785,7 @@
         "p(Hallucination)": "0.00"
     },
     {
-        "input_text": "\u0422\u043e, \u0447\u0442\u043e \u0441\u043a\u0430\u0437\u0430\u043b \u0422\u043e\u043c, \u043f\u043e\u0434\u0442\u0432\u0435\u0440\u0434\u0438\u043b\u043e\u0441\u044c.",
+        "input_text": "То, что сказал Том, подтвердилось.",
         "target_text": "What Tom said proved true.",
         "generated_text": "What Tom said was confirmed.",
         "gold_label": "Not Hallucination",
@@ -6692,7 +6799,7 @@
         "p(Hallucination)": "0.00"
     },
     {
-        "input_text": "\u0413\u0434\u0435 \u0422\u043e\u043c \u0432\u0437\u044f\u043b \u044d\u0442\u0438 \u0444\u043e\u0442\u043e\u0433\u0440\u0430\u0444\u0438\u0438?",
+        "input_text": "Где Том взял эти фотографии?",
         "target_text": "Where did Tom get these pictures?",
         "generated_text": "Where did Tom take those photos?",
         "gold_label": "Not Hallucination",
@@ -6706,7 +6813,7 @@
         "p(Hallucination)": "0.00"
     },
     {
-        "input_text": "\u0418\u0441\u043f\u0440\u0430\u0432\u044c \u0435\u0433\u043e, \u043f\u043e\u0436\u0430\u043b\u0443\u0439\u0441\u0442\u0430.",
+        "input_text": "Исправь его, пожалуйста.",
         "target_text": "Please fix it.",
         "generated_text": "Just fix it, please.",
         "gold_label": "Not Hallucination",
@@ -6720,7 +6827,7 @@
         "p(Hallucination)": "0.00"
     },
     {
-        "input_text": "\u042d\u0442\u043e \u0442\u0432\u043e\u0439 \u043f\u0435\u0440\u0432\u044b\u0439 \u0442\u0440\u0438\u043f?",
+        "input_text": "Это твой первый трип?",
         "target_text": "Is this your first time tripping?",
         "generated_text": "Is this your first trip?",
         "gold_label": "Not Hallucination",
@@ -6734,7 +6841,7 @@
         "p(Hallucination)": "0.00"
     },
     {
-        "input_text": "\u041d\u0435\u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u0440\u0430\u0437\u0433\u043e\u0432\u0430\u0440\u0438\u0432\u0430\u044e\u0442 \u0432\u043e \u0441\u043d\u0435.",
+        "input_text": "Некоторые разговаривают во сне.",
         "target_text": "Some people talk in their sleep.",
         "generated_text": "Some people talk in their dreams.",
         "gold_label": "Hallucination",
@@ -6745,10 +6852,11 @@
         "student_answer": "Not Hallucination",
         "parttimer_answer": "Not Hallucination",
         "combined_answer": "Not Hallucination",
-        "p(Hallucination)": "0.00"
+        "p(Hallucination)": "0.00",
+        "task": "MT"
     },
     {
-        "input_text": "\u041d\u0435 \u043f\u043e\u043b\u044c\u0437\u0443\u0439\u0442\u0435\u0441\u044c \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u043e\u043c \u0432\u043e \u0432\u0440\u0435\u043c\u044f \u0432\u043e\u0436\u0434\u0435\u043d\u0438\u044f.",
+        "input_text": "Не пользуйтесь телефоном во время вождения.",
         "target_text": "Don't use your phone while driving.",
         "generated_text": "Do not use your phone while driving.",
         "gold_label": "Not Hallucination",
@@ -6762,7 +6870,7 @@
         "p(Hallucination)": "0.00"
     },
     {
-        "input_text": "\u041f\u043e\u0434\u043e\u0436\u0434\u0438, \u0442\u044b \u044d\u0442\u043e \u0441\u0435\u0440\u044c\u0451\u0437\u043d\u043e?",
+        "input_text": "Подожди, ты это серьёзно?",
         "target_text": "Whoa, are you serious?",
         "generated_text": "Wait, are you serious?",
         "gold_label": "Not Hallucination",
@@ -6776,7 +6884,7 @@
         "p(Hallucination)": "0.00"
     },
     {
-        "input_text": "\u041c\u043d\u0435 \u043d\u0435\u0447\u0435\u0433\u043e \u0442\u0435\u0431\u0435 \u0434\u0430\u0442\u044c.",
+        "input_text": "Мне нечего тебе дать.",
         "target_text": "I've got nothing to give you.",
         "generated_text": "I don't have anything to give you.",
         "gold_label": "Not Hallucination",
@@ -6790,7 +6898,7 @@
         "p(Hallucination)": "0.00"
     },
     {
-        "input_text": "\u0427\u0442\u043e \u0442\u044b \u0435\u0439 \u043a\u0443\u043f\u0438\u043b?",
+        "input_text": "Что ты ей купил?",
         "target_text": "What did you buy for her?",
         "generated_text": "What did you buy her?",
         "gold_label": "Not Hallucination",
@@ -6804,7 +6912,7 @@
         "p(Hallucination)": "0.00"
     },
     {
-        "input_text": "\u0412\u044b \u0437\u0430\u0431\u044b\u043b\u0438 \u0443\u043f\u043e\u043c\u044f\u043d\u0443\u0442\u044c \u044d\u0442\u043e.",
+        "input_text": "Вы забыли упомянуть это.",
         "target_text": "You forgot to mention that.",
         "generated_text": "You forgot to mention it.",
         "gold_label": "Not Hallucination",
@@ -6818,7 +6926,7 @@
         "p(Hallucination)": "0.00"
     },
     {
-        "input_text": "\u041d\u0430 \u0434\u0435\u0432\u043e\u0447\u043a\u0435 \u0431\u044b\u043b\u0430 \u0431\u043e\u043b\u044c\u0448\u0430\u044f \u043a\u0440\u0430\u0441\u043d\u0430\u044f \u0448\u043b\u044f\u043f\u0430.",
+        "input_text": "На девочке была большая красная шляпа.",
         "target_text": "The girl had a large red hat on.",
         "generated_text": "There was a big red hat on the girl.",
         "gold_label": "Not Hallucination",
@@ -6832,7 +6940,7 @@
         "p(Hallucination)": "0.00"
     },
     {
-        "input_text": "\u041e\u043d \u0432 \u0431\u043e\u043b\u044c\u043d\u0438\u0446\u0435.",
+        "input_text": "Он в больнице.",
         "target_text": "He is in hospital.",
         "generated_text": "He's in the hospital.",
         "gold_label": "Not Hallucination",
@@ -6846,7 +6954,7 @@
         "p(Hallucination)": "0.00"
     },
     {
-        "input_text": "\u041e\u0434\u043d\u043e\u043a\u043b\u0430\u0441\u0441\u043d\u0438\u043a\u0438 \u0422\u043e\u043c\u0430 \u043e\u0431\u0437\u044b\u0432\u0430\u043b\u0438 \u0435\u0433\u043e.",
+        "input_text": "Одноклассники Тома обзывали его.",
         "target_text": "Tom's classmates called him names.",
         "generated_text": "Tom's classmates called him.",
         "gold_label": "Hallucination",
@@ -6860,7 +6968,7 @@
         "p(Hallucination)": "1.00"
     },
     {
-        "input_text": "\u041c\u043e\u0436\u0435\u0448\u044c \u0431\u043e\u043b\u044c\u0448\u0435 \u044d\u0442\u043e\u0433\u043e \u043d\u0435 \u0434\u0435\u043b\u0430\u0442\u044c.",
+        "input_text": "Можешь больше этого не делать.",
         "target_text": "You don't have to do that anymore.",
         "generated_text": "You can't do that anymore.",
         "gold_label": "Hallucination",
@@ -6874,7 +6982,7 @@
         "p(Hallucination)": "0.80"
     },
     {
-        "input_text": "\u041f\u043e\u0441\u043c\u043e\u0442\u0440\u0438\u043c, \u0447\u0442\u043e \u0422\u043e\u043c \u043f\u0440\u0438\u0434\u0443\u043c\u0430\u0435\u0442.",
+        "input_text": "Посмотрим, что Том придумает.",
         "target_text": "We'll see what Tom comes up with.",
         "generated_text": "Let's see what Tom's coming up with.",
         "gold_label": "Not Hallucination",
@@ -6888,7 +6996,7 @@
         "p(Hallucination)": "0.00"
     },
     {
-        "input_text": "\u041c\u043d\u0435 \u043d\u0443\u0436\u043d\u043e \u0442\u0435\u0431\u0435 \u043a\u043e\u0435-\u0447\u0442\u043e \u043e\u0431\u044a\u044f\u0441\u043d\u0438\u0442\u044c.",
+        "input_text": "Мне нужно тебе кое-что объяснить.",
         "target_text": "I have something I need to explain to you.",
         "generated_text": "I need to explain something to you.",
         "gold_label": "Not Hallucination",
@@ -6902,7 +7010,7 @@
         "p(Hallucination)": "0.00"
     },
     {
-        "input_text": "\u0422\u043e\u043c \u0445\u043e\u0440\u043e\u0448\u043e \u0432\u044b\u0433\u043b\u044f\u0434\u0438\u0442.",
+        "input_text": "Том хорошо выглядит.",
         "target_text": "Tom looks well.",
         "generated_text": "That looks good.",
         "gold_label": "Not Hallucination",
@@ -6913,10 +7021,11 @@
         "student_answer": "Hallucination",
         "parttimer_answer": "Hallucination",
         "combined_answer": "Hallucination",
-        "p(Hallucination)": "0.80"
+        "p(Hallucination)": "0.80",
+        "task": "MT"
     },
     {
-        "input_text": "\u0422\u043e\u043c \u043f\u043e\u0434\u043e\u0448\u0451\u043b \u043a \u041c\u044d\u0440\u0438 \u0438 \u043e\u0431\u043d\u044f\u043b \u0435\u0451.",
+        "input_text": "Том подошёл к Мэри и обнял её.",
         "target_text": "Tom walked over to Mary and hugged her.",
         "generated_text": "Tom came to Mary and hugged her.",
         "gold_label": "Not Hallucination",
@@ -6930,7 +7039,7 @@
         "p(Hallucination)": "0.00"
     },
     {
-        "input_text": "\u041d\u0435 \u0434\u0443\u043c\u0430\u044e, \u0447\u0442\u043e \u0422\u043e\u043c \u0431\u0443\u0434\u0435\u0442 \u043f\u043e\u043c\u043e\u0433\u0430\u0442\u044c \u043d\u0430\u043c \u044d\u0442\u043e \u0434\u0435\u043b\u0430\u0442\u044c.",
+        "input_text": "Не думаю, что Том будет помогать нам это делать.",
         "target_text": "I don't think Tom is going to help us do that.",
         "generated_text": "I don't think Tom's gonna help us do this.",
         "gold_label": "Not Hallucination",
@@ -6944,7 +7053,7 @@
         "p(Hallucination)": "0.00"
     },
     {
-        "input_text": "\u0420\u043e\u0441\u0441\u0438\u044f \u043f\u0440\u0435\u0432\u0440\u0430\u0442\u0438\u043b\u0430\u0441\u044c \u0432\u043e \u0432\u0442\u043e\u0440\u0443\u044e \u0441\u0432\u0435\u0440\u0445\u0434\u0435\u0440\u0436\u0430\u0432\u0443.",
+        "input_text": "Россия превратилась во вторую сверхдержаву.",
         "target_text": "Russia had emerged as a second superpower.",
         "generated_text": "Russia has turned into a second superpower.",
         "gold_label": "Not Hallucination",
@@ -6958,7 +7067,7 @@
         "p(Hallucination)": "0.00"
     },
     {
-        "input_text": "\u0414\u0435\u0442\u0438 \u043f\u043e\u043b\u0443\u0447\u0438\u043b\u0438 \u043f\u043e\u0434\u0430\u0440\u043a\u0438.",
+        "input_text": "Дети получили подарки.",
         "target_text": "The children got some presents.",
         "generated_text": "The children received gifts.",
         "gold_label": "Not Hallucination",
@@ -6972,7 +7081,7 @@
         "p(Hallucination)": "0.00"
     },
     {
-        "input_text": "\u0423 \u043c\u0435\u043d\u044f \u043d\u0435\u0442 \u0434\u0435\u043d\u0435\u0433, \u0447\u0442\u043e\u0431\u044b \u043a\u0443\u043f\u0438\u0442\u044c \u0441\u043b\u043e\u0432\u0430\u0440\u044c.",
+        "input_text": "У меня нет денег, чтобы купить словарь.",
         "target_text": "I have no money to buy the dictionary with.",
         "generated_text": "I don't have any money to buy a dictionary.",
         "gold_label": "Not Hallucination",

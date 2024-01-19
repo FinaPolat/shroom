@@ -54,6 +54,7 @@ parttimer_answers = read_json("experiment3/answers/gpt-3.5-turbo-1106/post_proce
 
 combined_answers = []
 detailed_answers = []
+errors = []
 
 for label, ed, lex, stu, tra, par in zip(reference_data, editor_answers, lexicographer_answers, student_answers, translator_answers, parttimer_answers):
     answers = {"gold_label": label["label"],
@@ -79,8 +80,15 @@ for label, ed, lex, stu, tra, par in zip(reference_data, editor_answers, lexicog
     combined_answers.append(answers)
     detailed_answers.append(detailed_answer)
 
+    if answers["gold_label"] != answers["combined_answer"]:
+        detailed_answer["task"] = label["task"]
+        errors.append(detailed_answer)
+
 with open("experiment3/answers/gpt-3.5-turbo-1106/round1_combined_answers.json", 'w', encoding='utf-8') as f:
-    json.dump(combined_answers, f, indent=4)
+    json.dump(combined_answers, f, indent=4, ensure_ascii=False)
 
 with open("experiment3/answers/gpt-3.5-turbo-1106/round1_detailed_answers.json", 'w', encoding='utf-8') as f:
-    json.dump(detailed_answers, f, indent=4)
+    json.dump(detailed_answers, f, indent=4, ensure_ascii=False)
+
+with open("experiment3/answers/gpt-3.5-turbo-1106/round1_errors.json", 'w', encoding='utf-8') as f:
+    json.dump(errors, f, indent=4, ensure_ascii=False)
