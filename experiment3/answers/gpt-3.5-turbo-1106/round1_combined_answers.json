@@ -1,0 +1,2996 @@
+[
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.2,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.8,
+        "p(Hallucination)": 0.4
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.0,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 0.2,
+        "p(Hallucination)": 0.8
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 0.0,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 1.0,
+        "p(Hallucination)": 0.6
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.4,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 1.0,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 0.4,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.6,
+        "p(Hallucination)": 0.2
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.0,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.6,
+        "p(Hallucination)": 0.2
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 1.0,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 1.0,
+        "p(Hallucination)": 0.6
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.6,
+        "p(Hallucination)": 0.2
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.2,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.6,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 1.0,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.0,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.6,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 1.0,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.0,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.2,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.0,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.2,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.0,
+        "p(Hallucination)": 0.2
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.4,
+        "p(Hallucination)": 0.4
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.2,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.4,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 0.4,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.4,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 0.4,
+        "p(Hallucination)": 0.6
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 0.8,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 1.0,
+        "p(Hallucination)": 0.4
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 0.8,
+        "p(Hallucination)": 0.8
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 1.0,
+        "p(Hallucination)": 0.4
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 0.8,
+        "p(Hallucination)": 0.6
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.0,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.8,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 0.2,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 0.4,
+        "p(Hallucination)": 0.8
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 0.6,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 1.0,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.0,
+        "p(Hallucination)": 0.4
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 0.4,
+        "p(Hallucination)": 0.8
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.8,
+        "p(Hallucination)": 0.4
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 0.8,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 0.6,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 0.8,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 1.0,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.4,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 0.6,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.2,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.4,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 1.0,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 0.4,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.0,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.4,
+        "p(Hallucination)": 0.4
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.0,
+        "p(Hallucination)": 0.2
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 0.8,
+        "p(Hallucination)": 0.6
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 0.8,
+        "p(Hallucination)": 0.8
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 0.8,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.8,
+        "p(Hallucination)": 0.2
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 0.8,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.2,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.6,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 0.6,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.0,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.4,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 0.8,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 0.4,
+        "p(Hallucination)": 0.8
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.0,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 0.8,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.4,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.8,
+        "p(Hallucination)": 0.2
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 1.0,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 0.8,
+        "p(Hallucination)": 0.8
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.0,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.2,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.2,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 0.0,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.4,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.2,
+        "p(Hallucination)": 0.4
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 0.0,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.2,
+        "p(Hallucination)": 0.2
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.6,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 0.4,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.2,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.2,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 0.2,
+        "p(Hallucination)": 0.8
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 0.6,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.4,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 1.0,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 1.0,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.2,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.4,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.2,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.4,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 0.8,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.4,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 0.6,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.0,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.8,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.4,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.6,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 0.8,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 1.0,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.0,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.6,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.6,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.4,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.2,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 0.6,
+        "p(Hallucination)": 0.8
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 1.0,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.6,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 0.6,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.2,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 0.4,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 1.0,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.2,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.4,
+        "p(Hallucination)": 0.2
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.0,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.6,
+        "p(Hallucination)": 0.4
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.6,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.0,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 0.8,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 0.8,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.0,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.8,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 0.4,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.2,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 1.0,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.2,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.2,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 0.8,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 0.6,
+        "p(Hallucination)": 0.8
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 0.4,
+        "p(Hallucination)": 0.8
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 0.4,
+        "p(Hallucination)": 0.8
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.4,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.8,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.6,
+        "p(Hallucination)": 0.2
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.8,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 0.8,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.4,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 1.0,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.2,
+        "p(Hallucination)": 0.4
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 1.0,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 0.8,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 1.0,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 0.4,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.2,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.2,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 1.0,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.8,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.0,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 1.0,
+        "p(Hallucination)": 0.6
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.6,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 1.0,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.2,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 0.6,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 0.6,
+        "p(Hallucination)": 0.8
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.0,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.8,
+        "p(Hallucination)": 0.2
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.2,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.2,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.0,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 1.0,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.2,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.2,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.2,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 0.6,
+        "p(Hallucination)": 0.6
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.4,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.4,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 1.0,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.8,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 0.6,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.8,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 0.8,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.0,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.0,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 0.2,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 1.0,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 1.0,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 0.6,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 0.8,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.2,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 1.0,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.0,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 1.0,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.0,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 0.2,
+        "p(Hallucination)": 0.8
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.0,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 0.6,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.6,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 0.4,
+        "p(Hallucination)": 0.8
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.0,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.0,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.2,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.2,
+        "p(Hallucination)": 0.2
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 0.8,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.0,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.4,
+        "p(Hallucination)": 0.2
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 1.0,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.2,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 0.4,
+        "p(Hallucination)": 0.6
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.2,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.0,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.2,
+        "p(Hallucination)": 0.2
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 0.6,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.2,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 1.0,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.2,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 0.6,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.6,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.2,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.0,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 1.0,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 0.6,
+        "p(Hallucination)": 0.6
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.2,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.0,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 0.4,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 1.0,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.0,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 0.8,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.2,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 0.8,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.2,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.4,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.6,
+        "p(Hallucination)": 0.2
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.4,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 0.8,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.2,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.4,
+        "p(Hallucination)": 0.4
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.2,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.4,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 1.0,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.0,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.2,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.2,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.8,
+        "p(Hallucination)": 0.2
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.0,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.0,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 1.0,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.0,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 0.4,
+        "p(Hallucination)": 0.6
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.6,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 1.0,
+        "p(Hallucination)": 0.4
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.4,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 0.8,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.0,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 1.0,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 0.4,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 0.8,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.2,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 0.8,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.6,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.6,
+        "p(Hallucination)": 0.4
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.2,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.4,
+        "p(Hallucination)": 0.2
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 0.8,
+        "p(Hallucination)": 0.8
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 0.6,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 1.0,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.4,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 0.8,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.2,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.0,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 0.0,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 1.0,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 0.6,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.2,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 0.8,
+        "p(Hallucination)": 0.6
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.0,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.2,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 0.2,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.2,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 0.4,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.4,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.2,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.0,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.2,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.0,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 0.4,
+        "p(Hallucination)": 0.8
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 0.6,
+        "p(Hallucination)": 0.8
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 0.4,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 0.4,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 0.8,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.2,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 0.8,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 1.0,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 0.4,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 0.8,
+        "p(Hallucination)": 0.8
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.4,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.6,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 0.6,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 0.8,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 0.2,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.2,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.0,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.2,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 1.0,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.8,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.0,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.4,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.2,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 0.4,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.4,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.2,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 0.6,
+        "p(Hallucination)": 0.6
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.2,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.2,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 0.2,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.0,
+        "p(Hallucination)": 0.2
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 1.0,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.4,
+        "p(Hallucination)": 0.4
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 1.0,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.6,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 0.6,
+        "p(Hallucination)": 0.8
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.0,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 0.8,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 1.0,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 0.6,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 0.8,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 1.0,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 0.6,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 0.2,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.0,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 1.0,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.0,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 1.0,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 1.0,
+        "p(Hallucination)": 0.6
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.0,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.4,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.2,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 0.8,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.6,
+        "p(Hallucination)": 0.2
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 1.0,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 1.0,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 0.8,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 1.0,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.2,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 1.0,
+        "p(Hallucination)": 0.8
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 1.0,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 0.0,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.6,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 1.0,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.2,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 1.0,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 0.8,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.4,
+        "p(Hallucination)": 0.2
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.6,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 1.0,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 0.8,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 0.6,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 0.8,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 1.0,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 1.0,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.6,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.6,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 0.8,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 1.0,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 1.0,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 0.8,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.0,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.0,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.4,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 1.0,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.0,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.4,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.4,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.0,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.0,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.4,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.8,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.4,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.2,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.6,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.2,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 1.0,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 1.0,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.0,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 0.8,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.2,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 1.0,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.4,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.0,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.0,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 0.6,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 1.0,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.2,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.0,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.6,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 1.0,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.8,
+        "p(Hallucination)": 0.4
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.2,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 1.0,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.8,
+        "p(Hallucination)": 0.2
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 0.6,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.0,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 0.8,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.4,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 1.0,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.2,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 0.8,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.0,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 1.0,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 1.0,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 0.8,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.0,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.6,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.4,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.4,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 1.0,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.4,
+        "p(Hallucination)": 0.2
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.0,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.0,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.0,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 0.8,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 1.0,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.0,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 1.0,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.4,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.2,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.2,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.2,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.0,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.2,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.0,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.6,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.0,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 1.0,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 0.6,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.0,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 1.0,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 1.0,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.4,
+        "p(Hallucination)": 0.2
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 0.8,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.0,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.2,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 1.0,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.0,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.2,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.0,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.0,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.2,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 1.0,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.6,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.2,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.0,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.0,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.2,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 0.6,
+        "p(Hallucination)": 0.8
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.2,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.2,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.8,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.0,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.6,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.0,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.2,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 0.4,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 1.0,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.0,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 0.2,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.0,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.0,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.0,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 0.4,
+        "p(Hallucination)": 0.6
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.0,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.2,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.0,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.4,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 1.0,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 0.0,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.2,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.0,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.4,
+        "p(Hallucination)": 0.2
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.2,
+        "p(Hallucination)": 0.4
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.0,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.2,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.2,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.0,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.4,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.8,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.0,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.0,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.0,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.0,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.2,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.0,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.4,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 0.6,
+        "p(Hallucination)": 1.0
+    },
+    {
+        "gold_label": "Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 0.6,
+        "p(Hallucination)": 0.8
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.2,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.0,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Hallucination",
+        "gold_p(Hallucination)": 0.2,
+        "p(Hallucination)": 0.8
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.0,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.2,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.0,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.0,
+        "p(Hallucination)": 0.0
+    },
+    {
+        "gold_label": "Not Hallucination",
+        "combined_answer": "Not Hallucination",
+        "gold_p(Hallucination)": 0.0,
+        "p(Hallucination)": 0.0
+    }
+]

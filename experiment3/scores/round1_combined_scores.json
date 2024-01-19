@@ -1,0 +1,30 @@
+{
+    "Classification Report": {
+        "Hallucination": {
+            "precision": 0.7794871794871795,
+            "recall": 0.6972477064220184,
+            "f1-score": 0.7360774818401936,
+            "support": 218.0
+        },
+        "Not Hallucination": {
+            "precision": 0.7828947368421053,
+            "recall": 0.8469750889679716,
+            "f1-score": 0.8136752136752137,
+            "support": 281.0
+        },
+        "accuracy": 0.781563126252505,
+        "macro avg": {
+            "precision": 0.7811909581646423,
+            "recall": 0.7721113976949949,
+            "f1-score": 0.7748763477577036,
+            "support": 499.0
+        },
+        "weighted avg": {
+            "precision": 0.7814060644906548,
+            "recall": 0.781563126252505,
+            "f1-score": 0.7797748017713372,
+            "support": 499.0
+        }
+    },
+    "Spearmanr": 0.64
+}
