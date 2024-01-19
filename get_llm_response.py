@@ -9,7 +9,7 @@ import time
 from tqdm import tqdm
 
 # Set the OpenAI API key
-client = OpenAI(api_key="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")
+client = OpenAI(api_key="YOUR_API_KEY")
 
 def read_prompts(input_file): 
     with open(input_file, 'r', encoding='utf-8') as prompt_file:
