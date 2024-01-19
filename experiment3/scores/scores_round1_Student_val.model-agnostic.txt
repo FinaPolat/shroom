@@ -1,0 +1,14 @@
+True Negatives: 236
+False Positives: 45
+False Negatives: 75
+True Positives: 143
+
+                   precision    recall  f1-score   support
+
+Not Hallucination       0.76      0.84      0.80       281
+    Hallucination       0.76      0.66      0.70       218
+
+         accuracy                           0.76       499
+        macro avg       0.76      0.75      0.75       499
+     weighted avg       0.76      0.76      0.76       499
+

@@ -1,0 +1,1998 @@
+[
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.9"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.9"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "0.9"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.2"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.9"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.1"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.1"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "0.9"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.1"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.1"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.2"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.2"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.1"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.1"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.8"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "0.9"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.2"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.1"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.1"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.1"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.1"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.1"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.1"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.9"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.1"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.1"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.9"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.1"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.9"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.1"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.9"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.1"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "0.9"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.2"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.1"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.1"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.1"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.1"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.2"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.9"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.1"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.05"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.9"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.9"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.1"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.1"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.1"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.1"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.1"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.1"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.2"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.1"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.1"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.1"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.1"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.1"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.1"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.1"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.1"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.2"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.1"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.1"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.1"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.1"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.1"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.2"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.1"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.1"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.1"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.1"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.1"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.2"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.1"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.1"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.1"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.1"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.1"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.1"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.1"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.1"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.2"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.2"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.1"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.1"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.1"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.1"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "0.9"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.1"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.1"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.1"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.1"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.1"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.1"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.1"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.1"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.1"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.1"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "0.9"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.1"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.1"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.1"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.1"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.1"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.1"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.1"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.1"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.1"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.1"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.1"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.1"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.8"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.1"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.1"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.1"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.1"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.1"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.1"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.1"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.1"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.1"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.1"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.1"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.1"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.1"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.1"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.1"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.1"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.1"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.1"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.1"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.1"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.1"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.1"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.1"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.1"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.1"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.3"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Hallucination",
+        "p(Hallucination)": "1.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.1"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.1"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    },
+    {
+        "Answer": "Not Hallucination",
+        "p(Hallucination)": "0.0"
+    }
+]

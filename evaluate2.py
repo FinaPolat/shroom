@@ -1,3 +1,4 @@
+import os
 import json
 import argparse
 import numpy as np
@@ -14,11 +15,14 @@ def read_json(file):
 def evaluate():
     parser = argparse.ArgumentParser()
     
-    parser.add_argument('--input_file', type=str, default='answers_from_GPT3-5-turbo/test_answers_gpt-3.5-turbo-1106.txt', help='Input file')
+    parser.add_argument('--input_file', type=str, default='experiment3/answers/gpt-3.5-turbo-1106/round3_Editor_val.model-agnostic.txt', help='Input file')
     parser.add_argument('--ref_file', type=str, default='data/val.model-agnostic.json', help='reference file')
-    parser.add_argument('--scores_dir', type=str, default='scores', help='Output directory to save the scores')
+    parser.add_argument('--scores_dir', type=str, default='experiment3/scores', help='Output directory to save the scores')
 
     args = parser.parse_args()
+
+    if not os.path.exists(args.scores_dir):
+        os.makedirs(args.scores_dir)
 
     with open(args.input_file, 'r', encoding= "utf-8") as f:
         data = f.readlines()
@@ -27,22 +31,15 @@ def evaluate():
     hallucination_yes_no = [] 
 
     for line in data:
-        if line.startswith('"llm_answer":'):
-            print(line)
-            line = "{" + line + "}"
+        if not line.startswith('"index"'):
             line = json.loads(line)
-            line = line['llm_answer']
-            #print(line.keys())
-            #print(line['Answer'])
-            #line["Probability score"] = str(line["Probability score"])
             GPT_answers.append(line)
             if line['Answer'] == 'Hallucination':
                 hallucination_yes_no.append(1)
             else:
                 hallucination_yes_no.append(0)
 
-
-    input_dir = args.input_file.split('/')[0]
+    input_dir = args.input_file.split('/')[0] + '/' + args.input_file.split('/')[1] + '/' + args.input_file.split('/')[2]
     input_file = args.input_file.split('/')[-1]
     
     with open(f'{input_dir}/post_processed_{input_file.replace(".txt", ".json")}', 'w', encoding= "utf-8") as f: 
@@ -88,6 +85,7 @@ def evaluate():
         f.write(f"False Negatives: {fn}\n")
         f.write(f"True Positives: {tp}\n")
         f.write(f'\n{cr}\n')
+    
 
 if __name__ == '__main__':
     evaluate()
